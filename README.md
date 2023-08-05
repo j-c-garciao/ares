@@ -8,7 +8,7 @@ _ares_ relies on the application _pgraph_solver.exe_ (refer to folder PNSStudio_
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <br>
-P-graph Studio [P-graph Studio](https://p-graph.org/downloads/)
+[P-graph Studio](https://p-graph.org/downloads/)
 
 ## Contact
 
