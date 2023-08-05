@@ -6,4 +6,4 @@ _ares_ relies on the application _pgraph_solver.exe_ (refer to folder PNSStudio_
 
 # Contact
 
-Juan Carlos García-Ojeda (aka JC) - jcgarciao@unicartagena.edu.co
+Juan Carlos García-Ojeda (aka JC) - jcgarciao [at] unicartagena.edu.co
