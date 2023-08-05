@@ -4,6 +4,6 @@ _ares_ is a Java-based open-source desktop application for modelling instances o
 
 _ares_ relies on the application _pgraph_solver.exe_ (refer to folder PNSStudio_v2022/Solver [PNSStudio_v2022/Solver/](https://github.com/j-c-garciao/ares/blob/main/PNSStudio_v2022/Solver/)), which is part of the P-graph Studio [P-graph Studio](https://p-graph.org/downloads/), for computing the feasible flows.
 
-# Contact
+## Contact
 
 Juan Carlos García-Ojeda (aka JC) - jcgarciao [at] unicartagena.edu.co
