@@ -26,8 +26,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.8+9-LTS-211, mixed mode, sharing)
 
 ## Executing _ares_
 
-Download and unzip the file [ares.IDE.zip](https://github.com/j-c-garciao/ares/blob/main/Distribution/ares.IDE.zip). The double-clik ob the the file **ares.IDE.jar**. Any comment, do not hesitate to contact me! [Go Contact section](#contact) 
-
+Download and unzip the file [ares.IDE.zip](https://github.com/j-c-garciao/ares/blob/main/Distribution/ares.IDE.zip). The double-clik ob the the file **ares.IDE.jar**. Any comment, do not hesitate to contact me! [Go to Contact section](-contact) 
 
 ## Contact
 
