@@ -12,7 +12,7 @@ _ares_ relies on the application _pgraph_solver.exe_ (refer to folder [PNSStudio
 <br>
 [P-graph Studio](https://p-graph.org/downloads/)
 
-## software Requirements
+## Software Requirements
 
 To execute _ares_, you must have the following software installed:
 
