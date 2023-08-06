@@ -24,7 +24,10 @@ java version "17.0.8" 2023-07-18 LTS ([download](https://www.oracle.com/java/tec
 <br>
 Java(TM) SE Runtime Environment (build 17.0.8+9-LTS-211)
 <br>
-Java HotSpot(TM) 64-Bit Server VM (build 17.0.8+9-LTS-211, mixed mode, sharing)
+Microsoft .NET Framework 4.5.1 (x86 and x64) ([download](https://www.microsoft.com/en-US/download/details.aspx?id=40779))
+<br>
+Windows Installer 4.5 ([download](https://www.microsoft.com/es-es/download/details.aspx?id=8483))
+
 
 ## Executing _ares_
 
