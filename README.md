@@ -17,9 +17,11 @@ _ares_ relies on the application _pgraph_solver.exe_ (refer to folder [PNSStudio
 To execute _ares_, you must have the following software installed:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+<br>
 java version "17.0.8" 2023-07-18 LTS ([download](https://www.oracle.com/java/technologies/downloads/#java17))
+<br>
 Java(TM) SE Runtime Environment (build 17.0.8+9-LTS-211)
+<br>
 Java HotSpot(TM) 64-Bit Server VM (build 17.0.8+9-LTS-211, mixed mode, sharing)
 
 
