@@ -28,7 +28,7 @@ Windows Installer 4.5 ([download](https://www.microsoft.com/es-es/download/detai
 
 ## Executing _ares_
 
-Download and unzip the file [ares.IDE.zip](https://github.com/j-c-garciao/ares/blob/main/Distribution/ares.IDE.zip). The double-clik ob the the file **ares.IDE.jar**. Any comment, do not hesitate to contact me! [Go to Contact section](#contact) 
+Download and unzip the file [ares.IDE.zip](https://github.com/j-c-garciao/ares/blob/main/Distribution/ares.IDE.zip). Then double-clik on the file **ares.IDE.jar**. Any comment, do not hesitate to contact me! [Go to Contact section](#contact) 
 
 ## Contact
 
