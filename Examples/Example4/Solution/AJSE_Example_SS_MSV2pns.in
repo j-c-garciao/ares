@@ -1,0 +1,46 @@
+file_type=PNS_problem_v1 
+file_name=dert 
+
+measurement_units:
+mass_unit=t
+time_unit=yr
+money_unit=Euro
+
+defaults:
+material_type=intermediate
+material_flow_rate_lower_bound=0
+material_flow_rate_upper_bound=100000000
+material_price=0
+operating_unit_capacity_lower_bound=0
+operating_unit_capacity_upper_bound=100000000
+operating_unit_fix_cost=0
+operating_unit_proportional_cost=0
+
+materials:
+S1: raw_material
+SuperSink: product, price=1
+
+operating_units:
+S1_V1: capacity_upper_bound=6.0
+S1_V2: capacity_upper_bound=4.0
+S1_V3: capacity_upper_bound=4.0
+V1_T1: capacity_upper_bound=5.0
+V1_V2: capacity_upper_bound=4.0
+V2_T2: capacity_upper_bound=4.0
+V3_T2: capacity_upper_bound=3.0
+V2_T1: capacity_upper_bound=4.0
+T1_SuperSink: capacity_upper_bound=1000000000
+T2_SuperSink: capacity_upper_bound=1000000000
+
+material_to_operating_unit_flow_rates:
+S1_V1: S1 => V1
+S1_V2: S1 => V2
+S1_V3: S1 => V3
+V1_T1: V1 => T1
+V1_V2: V1 => V2
+V2_T2: V2 => T2
+V3_T2: V3 => T2
+V2_T1: V2 => T1
+T1_SuperSink: T1 => SuperSink
+T2_SuperSink: T2 => SuperSink
+
