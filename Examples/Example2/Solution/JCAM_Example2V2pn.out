@@ -1,0 +1,2136 @@
+Materials(9):
+S, T, N5, N3, N2, N7, N4, N6, N8
+Operating units(15):
+S_N5, S_N3, S_N2, N2_N7, N2_N5, N2_N4, N3_N6, N3_N5, N3_N8, N6_N8, N4_N7, N5_T, 
+  N5_N7, N7_T, N8_T
+
+Maximal Structure:
+Materials(9):
+S, T, N5, N3, N2, N7, N4, N6, N8
+Operating units(15):
+S_N5, S_N3, S_N2, N2_N7, N2_N5, N2_N4, N3_N6, N3_N5, N3_N8, N6_N8, N4_N7, N5_T, 
+  N5_N7, N7_T, N8_T
+
+Feasible structure #1:
+Materials:
+S (0 Euro/yr): -23 t/yr
+T (-23 Euro/yr): 23 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -23 Euro/yr
+
+Feasible structure #2:
+Materials:
+S (0 Euro/yr): -23 t/yr
+T (-23 Euro/yr): 23 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -23 Euro/yr
+
+Feasible structure #3:
+Materials:
+S (0 Euro/yr): -22 t/yr
+T (-22 Euro/yr): 22 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+7*S_N3 (0 Euro/yr): S (-7 t/yr) => N3 (7 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+3*N3_N5 (0 Euro/yr): N3 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -22 Euro/yr
+
+Feasible structure #4:
+Materials:
+S (0 Euro/yr): -22 t/yr
+T (-22 Euro/yr): 22 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -22 Euro/yr
+
+Feasible structure #5:
+Materials:
+S (0 Euro/yr): -21 t/yr
+T (-21 Euro/yr): 21 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -21 Euro/yr
+
+Feasible structure #6:
+Materials:
+S (0 Euro/yr): -21 t/yr
+T (-21 Euro/yr): 21 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -21 Euro/yr
+
+Feasible structure #7:
+Materials:
+S (0 Euro/yr): -21 t/yr
+T (-21 Euro/yr): 21 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -21 Euro/yr
+
+Feasible structure #8:
+Materials:
+S (0 Euro/yr): -21 t/yr
+T (-21 Euro/yr): 21 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -21 Euro/yr
+
+Feasible structure #9:
+Materials:
+S (0 Euro/yr): -21 t/yr
+T (-21 Euro/yr): 21 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N5 (0 Euro/yr): N3 (-2 t/yr) => N5 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -21 Euro/yr
+
+Feasible structure #10:
+Materials:
+S (0 Euro/yr): -20 t/yr
+T (-20 Euro/yr): 20 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+5*S_N3 (0 Euro/yr): S (-5 t/yr) => N3 (5 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+3*N3_N5 (0 Euro/yr): N3 (-3 t/yr) => N5 (3 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -20 Euro/yr
+
+Feasible structure #11:
+Materials:
+S (0 Euro/yr): -20 t/yr
+T (-20 Euro/yr): 20 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+5*S_N3 (0 Euro/yr): S (-5 t/yr) => N3 (5 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+3*N3_N5 (0 Euro/yr): N3 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -20 Euro/yr
+
+Feasible structure #12:
+Materials:
+S (0 Euro/yr): -20 t/yr
+T (-20 Euro/yr): 20 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+5*S_N3 (0 Euro/yr): S (-5 t/yr) => N3 (5 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -20 Euro/yr
+
+Feasible structure #13:
+Materials:
+S (0 Euro/yr): -20 t/yr
+T (-20 Euro/yr): 20 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -20 Euro/yr
+
+Feasible structure #14:
+Materials:
+S (0 Euro/yr): -20 t/yr
+T (-20 Euro/yr): 20 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -20 Euro/yr
+
+Feasible structure #15:
+Materials:
+S (0 Euro/yr): -20 t/yr
+T (-20 Euro/yr): 20 t/yr
+N5: balanced
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -20 Euro/yr
+
+Feasible structure #16:
+Materials:
+S (0 Euro/yr): -19 t/yr
+T (-19 Euro/yr): 19 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -19 Euro/yr
+
+Feasible structure #17:
+Materials:
+S (0 Euro/yr): -19 t/yr
+T (-19 Euro/yr): 19 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -19 Euro/yr
+
+Feasible structure #18:
+Materials:
+S (0 Euro/yr): -19 t/yr
+T (-19 Euro/yr): 19 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N5 (0 Euro/yr): N3 (-2 t/yr) => N5 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -19 Euro/yr
+
+Feasible structure #19:
+Materials:
+S (0 Euro/yr): -19 t/yr
+T (-19 Euro/yr): 19 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -19 Euro/yr
+
+Feasible structure #20:
+Materials:
+S (0 Euro/yr): -19 t/yr
+T (-19 Euro/yr): 19 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N5 (0 Euro/yr): N3 (-2 t/yr) => N5 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -19 Euro/yr
+
+Feasible structure #21:
+Materials:
+S (0 Euro/yr): -19 t/yr
+T (-19 Euro/yr): 19 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+15*N5_T (0 Euro/yr): N5 (-15 t/yr) => T (15 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -19 Euro/yr
+
+Feasible structure #22:
+Materials:
+S (0 Euro/yr): -18 t/yr
+T (-18 Euro/yr): 18 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -18 Euro/yr
+
+Feasible structure #23:
+Materials:
+S (0 Euro/yr): -18 t/yr
+T (-18 Euro/yr): 18 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+3*N3_N5 (0 Euro/yr): N3 (-3 t/yr) => N5 (3 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -18 Euro/yr
+
+Feasible structure #24:
+Materials:
+S (0 Euro/yr): -18 t/yr
+T (-18 Euro/yr): 18 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -18 Euro/yr
+
+Feasible structure #25:
+Materials:
+S (0 Euro/yr): -18 t/yr
+T (-18 Euro/yr): 18 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -18 Euro/yr
+
+Feasible structure #26:
+Materials:
+S (0 Euro/yr): -18 t/yr
+T (-18 Euro/yr): 18 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -18 Euro/yr
+
+Feasible structure #27:
+Materials:
+S (0 Euro/yr): -18 t/yr
+T (-18 Euro/yr): 18 t/yr
+N5: balanced
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -18 Euro/yr
+
+Feasible structure #28:
+Materials:
+S (0 Euro/yr): -18 t/yr
+T (-18 Euro/yr): 18 t/yr
+N5: balanced
+N3: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -18 Euro/yr
+
+Feasible structure #29:
+Materials:
+S (0 Euro/yr): -17 t/yr
+T (-17 Euro/yr): 17 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -17 Euro/yr
+
+Feasible structure #30:
+Materials:
+S (0 Euro/yr): -17 t/yr
+T (-17 Euro/yr): 17 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -17 Euro/yr
+
+Feasible structure #31:
+Materials:
+S (0 Euro/yr): -17 t/yr
+T (-17 Euro/yr): 17 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N5 (0 Euro/yr): N3 (-2 t/yr) => N5 (2 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+Total annual cost= -17 Euro/yr
+
+Feasible structure #32:
+Materials:
+S (0 Euro/yr): -17 t/yr
+T (-17 Euro/yr): 17 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+15*N5_T (0 Euro/yr): N5 (-15 t/yr) => T (15 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -17 Euro/yr
+
+Feasible structure #33:
+Materials:
+S (0 Euro/yr): -17 t/yr
+T (-17 Euro/yr): 17 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+15*N5_T (0 Euro/yr): N5 (-15 t/yr) => T (15 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -17 Euro/yr
+
+Feasible structure #34:
+Materials:
+S (0 Euro/yr): -16 t/yr
+T (-16 Euro/yr): 16 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+1*S_N3 (0 Euro/yr): S (-1 t/yr) => N3 (1 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+Total annual cost= -16 Euro/yr
+
+Feasible structure #35:
+Materials:
+S (0 Euro/yr): -16 t/yr
+T (-16 Euro/yr): 16 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -16 Euro/yr
+
+Feasible structure #36:
+Materials:
+S (0 Euro/yr): -16 t/yr
+T (-16 Euro/yr): 16 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -16 Euro/yr
+
+Feasible structure #37:
+Materials:
+S (0 Euro/yr): -16 t/yr
+T (-16 Euro/yr): 16 t/yr
+N5: balanced
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -16 Euro/yr
+
+Feasible structure #38:
+Materials:
+S (0 Euro/yr): -16 t/yr
+T (-16 Euro/yr): 16 t/yr
+N5: balanced
+N3: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+16*N5_T (0 Euro/yr): N5 (-16 t/yr) => T (16 t/yr) 
+Total annual cost= -16 Euro/yr
+
+Feasible structure #39:
+Materials:
+S (0 Euro/yr): -15 t/yr
+T (-15 Euro/yr): 15 t/yr
+N5: balanced
+N2: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+15*N5_T (0 Euro/yr): N5 (-15 t/yr) => T (15 t/yr) 
+Total annual cost= -15 Euro/yr
+
+Feasible structure #40:
+Materials:
+S (0 Euro/yr): -15 t/yr
+T (-15 Euro/yr): 15 t/yr
+N5: balanced
+N2: balanced
+N7: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -15 Euro/yr
+
+Feasible structure #41:
+Materials:
+S (0 Euro/yr): -14 t/yr
+T (-14 Euro/yr): 14 t/yr
+N5: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -14 Euro/yr
+
+Feasible structure #42:
+Materials:
+S (0 Euro/yr): -14 t/yr
+T (-14 Euro/yr): 14 t/yr
+N5: balanced
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -14 Euro/yr
+
+Feasible structure #43:
+Materials:
+S (0 Euro/yr): -14 t/yr
+T (-14 Euro/yr): 14 t/yr
+N5: balanced
+N3: balanced
+N8: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -14 Euro/yr
+
+Feasible structure #44:
+Materials:
+S (0 Euro/yr): -12 t/yr
+T (-12 Euro/yr): 12 t/yr
+N5: balanced
+Operating units:
+12*S_N5 (0 Euro/yr): S (-12 t/yr) => N5 (12 t/yr) 
+12*N5_T (0 Euro/yr): N5 (-12 t/yr) => T (12 t/yr) 
+Total annual cost= -12 Euro/yr
+
+Feasible structure #45:
+Materials:
+S (0 Euro/yr): -11 t/yr
+T (-11 Euro/yr): 11 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+7*N5_T (0 Euro/yr): N5 (-7 t/yr) => T (7 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -11 Euro/yr
+
+Feasible structure #46:
+Materials:
+S (0 Euro/yr): -11 t/yr
+T (-11 Euro/yr): 11 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -11 Euro/yr
+
+Feasible structure #47:
+Materials:
+S (0 Euro/yr): -10 t/yr
+T (-10 Euro/yr): 10 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -10 Euro/yr
+
+Feasible structure #48:
+Materials:
+S (0 Euro/yr): -9 t/yr
+T (-9 Euro/yr): 9 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+7*N5_T (0 Euro/yr): N5 (-7 t/yr) => T (7 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -9 Euro/yr
+
+Feasible structure #49:
+Materials:
+S (0 Euro/yr): -9 t/yr
+T (-9 Euro/yr): 9 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+7*N5_T (0 Euro/yr): N5 (-7 t/yr) => T (7 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -9 Euro/yr
+
+Feasible structure #50:
+Materials:
+S (0 Euro/yr): -9 t/yr
+T (-9 Euro/yr): 9 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -9 Euro/yr
+
+Feasible structure #51:
+Materials:
+S (0 Euro/yr): -9 t/yr
+T (-9 Euro/yr): 9 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -9 Euro/yr
+
+Feasible structure #52:
+Materials:
+S (0 Euro/yr): -8 t/yr
+T (-8 Euro/yr): 8 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -8 Euro/yr
+
+Feasible structure #53:
+Materials:
+S (0 Euro/yr): -8 t/yr
+T (-8 Euro/yr): 8 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+5*S_N3 (0 Euro/yr): S (-5 t/yr) => N3 (5 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -8 Euro/yr
+
+Feasible structure #54:
+Materials:
+S (0 Euro/yr): -8 t/yr
+T (-8 Euro/yr): 8 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -8 Euro/yr
+
+Feasible structure #55:
+Materials:
+S (0 Euro/yr): -8 t/yr
+T (-8 Euro/yr): 8 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -8 Euro/yr
+
+Feasible structure #56:
+Materials:
+S (0 Euro/yr): -8 t/yr
+T (-8 Euro/yr): 8 t/yr
+N5: balanced
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+8*S_N3 (0 Euro/yr): S (-8 t/yr) => N3 (8 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -8 Euro/yr
+
+Feasible structure #57:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+3*N5_T (0 Euro/yr): N5 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -7 Euro/yr
+
+Feasible structure #58:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -7 Euro/yr
+
+Feasible structure #59:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+7*N5_T (0 Euro/yr): N5 (-7 t/yr) => T (7 t/yr) 
+Total annual cost= -7 Euro/yr
+
+Feasible structure #60:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -7 Euro/yr
+
+Feasible structure #61:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -7 Euro/yr
+
+Feasible structure #62:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+5*S_N3 (0 Euro/yr): S (-5 t/yr) => N3 (5 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -7 Euro/yr
+
+Feasible structure #63:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -7 Euro/yr
+
+Feasible structure #64:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #65:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #66:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #67:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #68:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #69:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #70:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N5: balanced
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #71:
+Materials:
+S (0 Euro/yr): -6 t/yr
+T (-6 Euro/yr): 6 t/yr
+N5: balanced
+N3: balanced
+N8: balanced
+Operating units:
+6*S_N3 (0 Euro/yr): S (-6 t/yr) => N3 (6 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -6 Euro/yr
+
+Feasible structure #72:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N6: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+3*N5_T (0 Euro/yr): N5 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #73:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #74:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+1*S_N2 (0 Euro/yr): S (-1 t/yr) => N2 (1 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #75:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+3*N5_T (0 Euro/yr): N5 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #76:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #77:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #78:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #79:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #80:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #81:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+5*S_N3 (0 Euro/yr): S (-5 t/yr) => N3 (5 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #82:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #83:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #84:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+N5: balanced
+N3: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -5 Euro/yr
+
+Feasible structure #85:
+Materials:
+S (0 Euro/yr): -4 t/yr
+T (-4 Euro/yr): 4 t/yr
+N5: balanced
+N2: balanced
+N7: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -4 Euro/yr
+
+Feasible structure #86:
+Materials:
+S (0 Euro/yr): -4 t/yr
+T (-4 Euro/yr): 4 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+Operating units:
+1*S_N3 (0 Euro/yr): S (-1 t/yr) => N3 (1 t/yr) 
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+4*N7_T (0 Euro/yr): N7 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -4 Euro/yr
+
+Feasible structure #87:
+Materials:
+S (0 Euro/yr): -4 t/yr
+T (-4 Euro/yr): 4 t/yr
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N6: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -4 Euro/yr
+
+Feasible structure #88:
+Materials:
+S (0 Euro/yr): -4 t/yr
+T (-4 Euro/yr): 4 t/yr
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -4 Euro/yr
+
+Feasible structure #89:
+Materials:
+S (0 Euro/yr): -4 t/yr
+T (-4 Euro/yr): 4 t/yr
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+4*N8_T (0 Euro/yr): N8 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -4 Euro/yr
+
+Feasible structure #90:
+Materials:
+S (0 Euro/yr): -4 t/yr
+T (-4 Euro/yr): 4 t/yr
+N5: balanced
+N3: balanced
+Operating units:
+4*S_N3 (0 Euro/yr): S (-4 t/yr) => N3 (4 t/yr) 
+4*N3_N5 (0 Euro/yr): N3 (-4 t/yr) => N5 (4 t/yr) 
+4*N5_T (0 Euro/yr): N5 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -4 Euro/yr
+
+Feasible structure #91:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N2: balanced
+Operating units:
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N5 (0 Euro/yr): N2 (-3 t/yr) => N5 (3 t/yr) 
+3*N5_T (0 Euro/yr): N5 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #92:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #93:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N2: balanced
+N7: balanced
+Operating units:
+3*S_N2 (0 Euro/yr): S (-3 t/yr) => N2 (3 t/yr) 
+3*N2_N7 (0 Euro/yr): N2 (-3 t/yr) => N7 (3 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #94:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #95:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+1*S_N2 (0 Euro/yr): S (-1 t/yr) => N2 (1 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #96:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+1*S_N2 (0 Euro/yr): S (-1 t/yr) => N2 (1 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #97:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N3: balanced
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+1*S_N3 (0 Euro/yr): S (-1 t/yr) => N3 (1 t/yr) 
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+3*N7_T (0 Euro/yr): N7 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #98:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N3: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #99:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N3: balanced
+N7: balanced
+N8: balanced
+Operating units:
+3*S_N3 (0 Euro/yr): S (-3 t/yr) => N3 (3 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #100:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N3: balanced
+N7: balanced
+N6: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #101:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+N5: balanced
+N3: balanced
+N7: balanced
+N8: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -3 Euro/yr
+
+Feasible structure #102:
+Materials:
+S (0 Euro/yr): -2 t/yr
+T (-2 Euro/yr): 2 t/yr
+N2: balanced
+N7: balanced
+N4: balanced
+Operating units:
+2*S_N2 (0 Euro/yr): S (-2 t/yr) => N2 (2 t/yr) 
+2*N2_N4 (0 Euro/yr): N2 (-2 t/yr) => N4 (2 t/yr) 
+2*N4_N7 (0 Euro/yr): N4 (-2 t/yr) => N7 (2 t/yr) 
+2*N7_T (0 Euro/yr): N7 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -2 Euro/yr
+
+Feasible structure #103:
+Materials:
+S (0 Euro/yr): -2 t/yr
+T (-2 Euro/yr): 2 t/yr
+N3: balanced
+N6: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*N3_N6 (0 Euro/yr): N3 (-2 t/yr) => N6 (2 t/yr) 
+2*N6_N8 (0 Euro/yr): N6 (-2 t/yr) => N8 (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -2 Euro/yr
+
+Feasible structure #104:
+Materials:
+S (0 Euro/yr): -2 t/yr
+T (-2 Euro/yr): 2 t/yr
+N3: balanced
+N8: balanced
+Operating units:
+2*S_N3 (0 Euro/yr): S (-2 t/yr) => N3 (2 t/yr) 
+2*N3_N8 (0 Euro/yr): N3 (-2 t/yr) => N8 (2 t/yr) 
+2*N8_T (0 Euro/yr): N8 (-2 t/yr) => T (2 t/yr) 
+Total annual cost= -2 Euro/yr
+
+Feasible structure #105:
+Materials:
+S (0 Euro/yr): -1 t/yr
+T (-1 Euro/yr): 1 t/yr
+N5: balanced
+N2: balanced
+N7: balanced
+Operating units:
+1*S_N2 (0 Euro/yr): S (-1 t/yr) => N2 (1 t/yr) 
+1*N2_N5 (0 Euro/yr): N2 (-1 t/yr) => N5 (1 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+Total annual cost= -1 Euro/yr
+
+Feasible structure #106:
+Materials:
+S (0 Euro/yr): -1 t/yr
+T (-1 Euro/yr): 1 t/yr
+N5: balanced
+N7: balanced
+Operating units:
+1*S_N5 (0 Euro/yr): S (-1 t/yr) => N5 (1 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+Total annual cost= -1 Euro/yr
+
+Feasible structure #107:
+Materials:
+S (0 Euro/yr): -1 t/yr
+T (-1 Euro/yr): 1 t/yr
+N5: balanced
+N3: balanced
+N7: balanced
+Operating units:
+1*S_N3 (0 Euro/yr): S (-1 t/yr) => N3 (1 t/yr) 
+1*N3_N5 (0 Euro/yr): N3 (-1 t/yr) => N5 (1 t/yr) 
+1*N5_N7 (0 Euro/yr): N5 (-1 t/yr) => N7 (1 t/yr) 
+1*N7_T (0 Euro/yr): N7 (-1 t/yr) => T (1 t/yr) 
+Total annual cost= -1 Euro/yr
+
+Feasible structure #108:
+Materials:
+Operating units:
+Total annual cost= 0 Euro/yr
+
+End.
