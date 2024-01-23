@@ -1,0 +1,89 @@
+Materials(4):
+S, T, V1, V2
+Operating units(5):
+S_V1, V1_V2, V1_T, V2_T, S_V2
+
+Maximal Structure:
+Materials(4):
+S, T, V1, V2
+Operating units(5):
+S_V1, V1_V2, V1_T, V2_T, S_V2
+
+Feasible structure #1:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+V1: balanced
+V2: balanced
+Operating units:
+4*S_V1 (1e-005 Euro/yr): S (-4 t/yr) => V1 (4 t/yr) 
+4*V1_T (1e-005 Euro/yr): V1 (-4 t/yr) => T (4 t/yr) 
+3*V2_T (1e-005 Euro/yr): V2 (-3 t/yr) => T (3 t/yr) 
+3*S_V2 (1e-005 Euro/yr): S (-3 t/yr) => V2 (3 t/yr) 
+Total annual cost= -6.99996 Euro/yr
+
+Feasible structure #2:
+Materials:
+S (0 Euro/yr): -7 t/yr
+T (-7 Euro/yr): 7 t/yr
+V1: balanced
+V2: balanced
+Operating units:
+5*S_V1 (1e-005 Euro/yr): S (-5 t/yr) => V1 (5 t/yr) 
+1*V1_V2 (1e-005 Euro/yr): V1 (-1 t/yr) => V2 (1 t/yr) 
+4*V1_T (1e-005 Euro/yr): V1 (-4 t/yr) => T (4 t/yr) 
+3*V2_T (1e-005 Euro/yr): V2 (-3 t/yr) => T (3 t/yr) 
+2*S_V2 (1e-005 Euro/yr): S (-2 t/yr) => V2 (2 t/yr) 
+Total annual cost= -6.99995 Euro/yr
+
+Feasible structure #3:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-5 Euro/yr): 5 t/yr
+V1: balanced
+V2: balanced
+Operating units:
+5*S_V1 (1e-005 Euro/yr): S (-5 t/yr) => V1 (5 t/yr) 
+3*V1_V2 (1e-005 Euro/yr): V1 (-3 t/yr) => V2 (3 t/yr) 
+2*V1_T (1e-005 Euro/yr): V1 (-2 t/yr) => T (2 t/yr) 
+3*V2_T (1e-005 Euro/yr): V2 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -4.99996 Euro/yr
+
+Feasible structure #4:
+Materials:
+S (0 Euro/yr): -4 t/yr
+T (-4 Euro/yr): 4 t/yr
+V1: balanced
+Operating units:
+4*S_V1 (1e-005 Euro/yr): S (-4 t/yr) => V1 (4 t/yr) 
+4*V1_T (1e-005 Euro/yr): V1 (-4 t/yr) => T (4 t/yr) 
+Total annual cost= -3.99998 Euro/yr
+
+Feasible structure #5:
+Materials:
+S (0 Euro/yr): -3 t/yr
+T (-3 Euro/yr): 3 t/yr
+V2: balanced
+Operating units:
+3*V2_T (1e-005 Euro/yr): V2 (-3 t/yr) => T (3 t/yr) 
+3*S_V2 (1e-005 Euro/yr): S (-3 t/yr) => V2 (3 t/yr) 
+Total annual cost= -2.99998 Euro/yr
+
+Feasible structure #6:
+Materials:
+S (0 Euro/yr): -5 t/yr
+T (-3 Euro/yr): 3 t/yr
+V1 (-0 Euro/yr): 2 t/yr
+V2: balanced
+Operating units:
+5*S_V1 (1e-005 Euro/yr): S (-5 t/yr) => V1 (5 t/yr) 
+3*V1_V2 (1e-005 Euro/yr): V1 (-3 t/yr) => V2 (3 t/yr) 
+3*V2_T (1e-005 Euro/yr): V2 (-3 t/yr) => T (3 t/yr) 
+Total annual cost= -2.99997 Euro/yr
+
+Feasible structure #7:
+Materials:
+Operating units:
+Total annual cost= 0 Euro/yr
+
+End.
