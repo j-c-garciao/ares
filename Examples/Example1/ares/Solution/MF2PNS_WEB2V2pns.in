@@ -1,0 +1,70 @@
+file_type=PNS_problem_v1 
+file_name=dert 
+
+measurement_units:
+mass_unit=t
+time_unit=yr
+money_unit=Euro
+
+defaults:
+material_type=intermediate
+material_flow_rate_lower_bound=0
+material_flow_rate_upper_bound=100000000
+material_price=0
+operating_unit_capacity_lower_bound=0
+operating_unit_capacity_upper_bound=100000000
+operating_unit_fix_cost=0
+operating_unit_proportional_cost=0
+
+materials:
+SuperSource: raw_material
+SuperSink: product, price=1
+
+operating_units:
+S1_V1: capacity_upper_bound=10.0, fix_cost=1E-6
+S2_V1: capacity_upper_bound=12.0, fix_cost=1E-6
+S2_V2: capacity_upper_bound=5.0, fix_cost=1E-6
+S3_V3: capacity_upper_bound=14.0, fix_cost=1E-6
+S3_V2: capacity_upper_bound=8.0, fix_cost=1E-6
+S4_V4: capacity_upper_bound=11.0, fix_cost=1E-6
+S4_V3: capacity_upper_bound=7.0, fix_cost=1E-6
+S5_V4: capacity_upper_bound=2.0, fix_cost=1E-6
+V1_T1: capacity_upper_bound=3.0, fix_cost=1E-6
+V2_T1: capacity_upper_bound=15.0, fix_cost=1E-6
+V2_T2: capacity_upper_bound=6.0, fix_cost=1E-6
+V3_T2: capacity_upper_bound=20.0, fix_cost=1E-6
+V3_T3: capacity_upper_bound=13.0, fix_cost=1E-6
+V4_T3: capacity_upper_bound=18.0, fix_cost=1E-6
+SuperSource_S3: capacity_upper_bound=1000000000, fix_cost=1E-6
+SuperSource_S4: capacity_upper_bound=1000000000, fix_cost=1E-6
+SuperSource_S5: capacity_upper_bound=1000000000, fix_cost=1E-6
+SuperSource_S1: capacity_upper_bound=1000000000, fix_cost=1E-6
+SuperSource_S2: capacity_upper_bound=1000000000, fix_cost=1E-6
+T1_SuperSink: capacity_upper_bound=1000000000, fix_cost=1E-6
+T2_SuperSink: capacity_upper_bound=1000000000, fix_cost=1E-6
+T3_SuperSink: capacity_upper_bound=1000000000, fix_cost=1E-6
+
+material_to_operating_unit_flow_rates:
+S1_V1: S1 => V1
+S2_V1: S2 => V1
+S2_V2: S2 => V2
+S3_V3: S3 => V3
+S3_V2: S3 => V2
+S4_V4: S4 => V4
+S4_V3: S4 => V3
+S5_V4: S5 => V4
+V1_T1: V1 => T1
+V2_T1: V2 => T1
+V2_T2: V2 => T2
+V3_T2: V3 => T2
+V3_T3: V3 => T3
+V4_T3: V4 => T3
+SuperSource_S3: SuperSource => S3
+SuperSource_S4: SuperSource => S4
+SuperSource_S5: SuperSource => S5
+SuperSource_S1: SuperSource => S1
+SuperSource_S2: SuperSource => S2
+T1_SuperSink: T1 => SuperSink
+T2_SuperSink: T2 => SuperSink
+T3_SuperSink: T3 => SuperSink
+
