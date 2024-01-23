@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="utf-16"?>
+<PGraph xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Type="PNS" Visible="true" PeriodExtension="true">
+  <Default>
+    <Material>
+      <FlowRateLowerBound>0</FlowRateLowerBound>
+      <FlowRateUpperBound>1000000000</FlowRateUpperBound>
+      <Price>0</Price>
+      <Type>1</Type>
+      <Deadline>31536000</Deadline>
+      <EarliestAvability>0</EarliestAvability>
+      <StorageStrategy>default</StorageStrategy>
+    </Material>
+    <OperatingUnit>
+      <OperatingFixCost>0</OperatingFixCost>
+      <InvestmentFixCost>0</InvestmentFixCost>
+      <OpUnitFixCost>0</OpUnitFixCost>
+      <OperatingPropCost>0</OperatingPropCost>
+      <InvestmentPropCost>0</InvestmentPropCost>
+      <OpUnitPropCost>0</OpUnitPropCost>
+      <CapacityLowerBound>0</CapacityLowerBound>
+      <CapacityUpperBound>1000000000</CapacityUpperBound>
+      <PayoutPeriod>10</PayoutPeriod>
+      <WorkingHoursPerYear>8000</WorkingHoursPerYear>
+      <FixOperTime>0</FixOperTime>
+      <PropOperTime>0</PropOperTime>
+      <EarliestAvability>0</EarliestAvability>
+      <LatestAvability>31536000</LatestAvability>
+      <RelaxMode>strong</RelaxMode>
+    </OperatingUnit>
+    <Edge>
+      <FlowRate>1</FlowRate>
+    </Edge>
+    <Quantity>
+      <default_mes>gram (g)</default_mes>
+      <time_mu>y</time_mu>
+      <quant_type>Mass</quant_type>
+      <money_mu>EUR</money_mu>
+    </Quantity>
+    <SolverParameter>
+      <MakespanCoefficient>0</MakespanCoefficient>
+      <CostCoefficient>1</CostCoefficient>
+      <TimeCoefficient>0</TimeCoefficient>
+      <TotalCostLowerBound>-1000000000</TotalCostLowerBound>
+      <TotalCostUpperBound>1000000000</TotalCostUpperBound>
+    </SolverParameter>
+  </Default>
+  <Materials>
+    <Material ID="17" Name="S1" Type="1">
+      <ParameterList>
+        <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
+        <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
+        <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>6600</X>
+        <Y>1500</Y>
+      </Coords>
+      <Label Text="S1">
+        <Offset>
+          <X>103</X>
+          <Y>-100</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>103</X>
+          <Y>20</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>103</X>
+          <Y>140</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </Material>
+    <Material ID="21" Name="S2" Type="1">
+      <ParameterList>
+        <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
+        <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
+        <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>2700</X>
+        <Y>1500</Y>
+      </Coords>
+      <Label Text="S2">
+        <Offset>
+          <X>103</X>
+          <Y>-100</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>103</X>
+          <Y>20</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>103</X>
+          <Y>140</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </Material>
+    <Material ID="1" Name="SuperSource" Type="0">
+      <ParameterList>
+        <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
+        <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
+        <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>4800</X>
+        <Y>300</Y>
+      </Coords>
+      <Label Text="SuperSource">
+        <Offset>
+          <X>142</X>
+          <Y>-149</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>103</X>
+          <Y>20</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>103</X>
+          <Y>140</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </Material>
+    <Material ID="349" Name="T" Type="2">
+      <ParameterList>
+        <Parameter Name="price" Prefix="Price: " Value="1" Visible="false" />
+        <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
+        <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>4800</X>
+        <Y>4500</Y>
+      </Coords>
+      <Label Text="T">
+        <Offset>
+          <X>137</X>
+          <Y>11</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>103</X>
+          <Y>20</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>103</X>
+          <Y>140</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </Material>
+    <Material ID="93" Name="V1" Type="1">
+      <ParameterList>
+        <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
+        <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
+        <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>7200</X>
+        <Y>2700</Y>
+      </Coords>
+      <Label Text="V1">
+        <Offset>
+          <X>103</X>
+          <Y>-100</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>103</X>
+          <Y>20</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>103</X>
+          <Y>140</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </Material>
+    <Material ID="19" Name="V2" Type="1">
+      <ParameterList>
+        <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
+        <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
+        <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>4800</X>
+        <Y>3300</Y>
+      </Coords>
+      <Label Text="V2">
+        <Offset>
+          <X>103</X>
+          <Y>-100</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>103</X>
+          <Y>20</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>103</X>
+          <Y>140</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </Material>
+    <Material ID="95" Name="V3" Type="1">
+      <ParameterList>
+        <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
+        <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
+        <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>2700</X>
+        <Y>3600</Y>
+      </Coords>
+      <Label Text="V3">
+        <Offset>
+          <X>103</X>
+          <Y>-100</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>103</X>
+          <Y>20</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>103</X>
+          <Y>140</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </Material>
+  </Materials>
+  <Edges>
+    <Edge ID="32" BeginID="9" EndID="21" Rate="-1" Title="1  × X_SuperSource_S2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_SuperSource_S2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="38" BeginID="5" EndID="17" Rate="-1" Title="1  × X_SuperSource_S1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_SuperSource_S1 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="47" BeginID="1" EndID="9" Rate="-1" Title="1  × X_SuperSource_S2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_SuperSource_S2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="53" BeginID="1" EndID="5" Rate="-1" Title="1  × X_SuperSource_S1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_SuperSource_S1 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="81" BeginID="17" EndID="47" Rate="-1" Title="1  × X_S1_V1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S1_V1 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="86" BeginID="21" EndID="53" Rate="-1" Title="1  × X_S2_V3 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S2_V3 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="109" BeginID="47" EndID="93" Rate="-1" Title="1  × X_S1_V1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S1_V1 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="118" BeginID="53" EndID="95" Rate="-1" Title="1  × X_S2_V3 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S2_V3 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="148" BeginID="95" EndID="131" Rate="-1" Title="1  × X_V3_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V3_T g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="256" BeginID="17" EndID="254" Rate="-1" Title="1  × X_S1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S1_V2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="259" BeginID="254" EndID="19" Rate="-1" Title="1  × X_S1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S1_V2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="264" BeginID="21" EndID="262" Rate="-1" Title="1  × X_S2_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S2_V2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="267" BeginID="262" EndID="19" Rate="-1" Title="1  × X_S2_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_S2_V2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="356" BeginID="19" EndID="354" Rate="-1" Title="1  × X_V2_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V2_T g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="359" BeginID="354" EndID="349" Rate="-1" Title="1  × X_V2_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V2_T g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="403" BeginID="93" EndID="401" Rate="-1" Title="1  × X_V1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V1_V2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="406" BeginID="401" EndID="19" Rate="-1" Title="1  × X_V1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V1_V2 g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="411" BeginID="93" EndID="409" Rate="-1" Title="1  × X_V1_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V1_T g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="414" BeginID="409" EndID="349" Rate="-1" Title="1  × X_V1_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V1_T g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+    <Edge ID="433" BeginID="131" EndID="349" Rate="-1" Title="1  × X_V3_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+      <Nodes />
+      <Label Text="1  × X_V3_T g/y">
+        <Offset>
+          <X>5</X>
+          <Y>0</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Color>-16777216</Color>
+      <LongFormat>true</LongFormat>
+      <Comment />
+      <CommentVisible>false</CommentVisible>
+    </Edge>
+  </Edges>
+  <OperatingUnits>
+    <OperatingUnit ID="47" Name="S1_V1" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="6" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>7200</X>
+        <Y>2100</Y>
+      </Coords>
+      <Label Text="S1_V1">
+        <Offset>
+          <X>-1</X>
+          <Y>-196</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="254" Name="S1_V2" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="0" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="4" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>5400</X>
+        <Y>2400</Y>
+      </Coords>
+      <Label Text="S1_V2">
+        <Offset>
+          <X>-416</X>
+          <Y>-196</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="262" Name="S2_V2" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="5" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>4200</X>
+        <Y>2400</Y>
+      </Coords>
+      <Label Text="S2_V2">
+        <Offset>
+          <X>-84</X>
+          <Y>-224</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="53" Name="S2_V3" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="3" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>2700</X>
+        <Y>3000</Y>
+      </Coords>
+      <Label Text="S2_V3">
+        <Offset>
+          <X>-458</X>
+          <Y>-223</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="5" Name="SuperSource_S1" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="100000000000" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>6600</X>
+        <Y>900</Y>
+      </Coords>
+      <Label Text="SuperSource_S1">
+        <Offset>
+          <X>-143</X>
+          <Y>-203</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="9" Name="SuperSource_S2" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="100000000000" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>2700</X>
+        <Y>900</Y>
+      </Coords>
+      <Label Text="SuperSource_S2">
+        <Offset>
+          <X>-796</X>
+          <Y>-199</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="409" Name="V1_T" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="5" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>7200</X>
+        <Y>3900</Y>
+      </Coords>
+      <Label Text="V1_T">
+        <Offset>
+          <X>-397</X>
+          <Y>-240</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="401" Name="V1_V2" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="4" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>6000</X>
+        <Y>3000</Y>
+      </Coords>
+      <Label Text="V1_V2">
+        <Offset>
+          <X>-381</X>
+          <Y>-239</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="354" Name="V2_T" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="4" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>4809</X>
+        <Y>4019</Y>
+      </Coords>
+      <Label Text="V2_T">
+        <Offset>
+          <X>-423</X>
+          <Y>-231</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+    <OperatingUnit ID="131" Name="V3_T" Title="">
+      <ParameterList>
+        <Parameter Name="caplower" Prefix="Capacity, lower bound: " Value="-1" Visible="false" />
+        <Parameter Name="capupper" Prefix="Capacity, upper bound: " Value="4" Visible="false" />
+        <Parameter Name="investcostfix" Prefix="Investment cost, fix: " Value="-1" Visible="false" />
+        <Parameter Name="investcostprop" Prefix="Investment cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="opercostfix" Prefix="Operating cost, fix: " Value="1E-05" Visible="false" />
+        <Parameter Name="opercostprop" Prefix="Operating cost, proportional: " Value="-1" Visible="false" />
+        <Parameter Name="workinghour" Prefix="Working hours per year: " Value="-1" Visible="false" />
+        <Parameter Name="payoutperiod" Prefix="Payout Period: " Value="-1" Visible="false" />
+      </ParameterList>
+      <Coords>
+        <X>2691</X>
+        <Y>4036</Y>
+      </Coords>
+      <Label Text="V3_T">
+        <Offset>
+          <X>-416</X>
+          <Y>-246</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Label>
+      <Comment Text="">
+        <Offset>
+          <X>378</X>
+          <Y>70</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Comment>
+      <Parameters Text="">
+        <Offset>
+          <X>378</X>
+          <Y>190</Y>
+        </Offset>
+        <FontSize>-1</FontSize>
+        <Color>-16777216</Color>
+      </Parameters>
+      <Color>-16777216</Color>
+    </OperatingUnit>
+  </OperatingUnits>
+  <MutualExclusions />
+  <Solutions>
+    <Solution Index="0" Title="Maximal Structure" OptimalValue="0" TotalTime="0" TotalMakespan="0" ObjectiveValue="0" AlgorithmUsed="INSIDEOUT">
+      <Materials>
+        <Material Name="S1" Flow="0" Cost="0" MU="" />
+        <Material Name="S2" Flow="0" Cost="0" MU="" />
+        <Material Name="SuperSource" Flow="0" Cost="0" MU="" />
+        <Material Name="T" Flow="0" Cost="0" MU="" />
+        <Material Name="V1" Flow="0" Cost="0" MU="" />
+        <Material Name="V2" Flow="0" Cost="0" MU="" />
+        <Material Name="V3" Flow="0" Cost="0" MU="" />
+      </Materials>
+      <OperatingUnits>
+        <OperatingUnit Name="S1_V1" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="S1_V2" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="S2_V2" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="S2_V3" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="SuperSource_S1" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="SuperSource_S2" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="V1_T" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="V1_V2" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="V2_T" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="V3_T" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+      </OperatingUnits>
+    </Solution>
+  </Solutions>
+  <Periods />
+  <MultiExcept>
+    <ExceptMats />
+    <ExceptOps />
+  </MultiExcept>
+  <Storages />
+</PGraph>
