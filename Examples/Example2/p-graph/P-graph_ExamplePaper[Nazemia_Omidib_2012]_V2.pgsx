@@ -49,7 +49,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -87,7 +87,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -125,7 +125,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -163,7 +163,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -201,7 +201,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -239,7 +239,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -277,7 +277,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -1529,7 +1529,87 @@
     </OperatingUnit>
   </OperatingUnits>
   <MutualExclusions />
-  <Solutions />
+  <Solutions>
+    <Solution Index="0" Title="Maximal Structure" OptimalValue="0" TotalTime="0" TotalMakespan="0" ObjectiveValue="0" AlgorithmUsed="INSIDEOUT">
+      <Materials>
+        <Material Name="N2" Flow="0" Cost="0" MU="" />
+        <Material Name="N3" Flow="0" Cost="0" MU="" />
+        <Material Name="N4" Flow="0" Cost="0" MU="" />
+        <Material Name="N5" Flow="0" Cost="0" MU="" />
+        <Material Name="N6" Flow="0" Cost="0" MU="" />
+        <Material Name="N7" Flow="0" Cost="0" MU="" />
+        <Material Name="N8" Flow="0" Cost="0" MU="" />
+        <Material Name="S" Flow="0" Cost="0" MU="" />
+        <Material Name="T" Flow="0" Cost="0" MU="" />
+      </Materials>
+      <OperatingUnits>
+        <OperatingUnit Name="N2_N4" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N2_N5" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N2_N7" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N3_N5" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N3_N6" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N3_N8" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N4_N7" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N5_N7" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N5_N8" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N5_T" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N6_N8" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N7_T" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="N8_T" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="S_N2" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="S_N3" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+        <OperatingUnit Name="S_N5" Size="0" Cost="0" MU="">
+          <Input />
+          <Output />
+        </OperatingUnit>
+      </OperatingUnits>
+    </Solution>
+  </Solutions>
   <Periods />
   <MultiExcept>
     <ExceptMats />
