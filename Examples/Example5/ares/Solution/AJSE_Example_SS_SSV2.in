@@ -19,6 +19,8 @@ operating_unit_proportional_cost=0
 materials:
 S: raw_material
 T: product, price=1
+V1: intermediate, flow_rate_upper_bound=0
+V2: intermediate, flow_rate_upper_bound=0
 
 operating_units:
 S_V1: capacity_upper_bound=5.0, fix_cost=1E-5

@@ -71,12 +71,12 @@ Total annual cost= -2.99998 Euro/yr
 
 Feasible structure #6:
 Materials:
-S (0 Euro/yr): -5 t/yr
+S (0 Euro/yr): -3 t/yr
 T (-3 Euro/yr): 3 t/yr
-V1 (-0 Euro/yr): 2 t/yr
+V1: balanced
 V2: balanced
 Operating units:
-5*S_V1 (1e-005 Euro/yr): S (-5 t/yr) => V1 (5 t/yr) 
+3*S_V1 (1e-005 Euro/yr): S (-3 t/yr) => V1 (3 t/yr) 
 3*V1_V2 (1e-005 Euro/yr): V1 (-3 t/yr) => V2 (3 t/yr) 
 3*V2_T (1e-005 Euro/yr): V2 (-3 t/yr) => T (3 t/yr) 
 Total annual cost= -2.99997 Euro/yr
