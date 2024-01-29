@@ -49,7 +49,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -87,7 +87,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -201,7 +201,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -239,7 +239,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -277,7 +277,7 @@
       <ParameterList>
         <Parameter Name="price" Prefix="Price: " Value="-1" Visible="false" />
         <Parameter Name="reqflow" Prefix="Required flow: " Value="-1" Visible="false" />
-        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="-1" Visible="false" />
+        <Parameter Name="maxflow" Prefix="Maximum flow: " Value="0" Visible="false" />
         <Parameter Name="quantitytype" Prefix="Quantity type: " Value="Mass" Visible="false" />
         <Parameter Name="measurementunit" Prefix="Measurement unit: " Value="gram (g)" Visible="false" />
       </ParameterList>
@@ -313,9 +313,9 @@
     </Material>
   </Materials>
   <Edges>
-    <Edge ID="32" BeginID="9" EndID="21" Rate="-1" Title="1  × X_SuperSource_S2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="32" BeginID="9" EndID="21" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_SuperSource_S2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -324,13 +324,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="38" BeginID="5" EndID="17" Rate="-1" Title="1  × X_SuperSource_S1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="38" BeginID="5" EndID="17" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_SuperSource_S1 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -339,13 +339,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="47" BeginID="1" EndID="9" Rate="-1" Title="1  × X_SuperSource_S2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="47" BeginID="1" EndID="9" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_SuperSource_S2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -354,13 +354,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="53" BeginID="1" EndID="5" Rate="-1" Title="1  × X_SuperSource_S1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="53" BeginID="1" EndID="5" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_SuperSource_S1 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -369,13 +369,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="81" BeginID="17" EndID="47" Rate="-1" Title="1  × X_S1_V1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="81" BeginID="17" EndID="47" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S1_V1 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -384,13 +384,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="86" BeginID="21" EndID="53" Rate="-1" Title="1  × X_S2_V3 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="86" BeginID="21" EndID="53" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S2_V3 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -399,13 +399,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="109" BeginID="47" EndID="93" Rate="-1" Title="1  × X_S1_V1 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="109" BeginID="47" EndID="93" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S1_V1 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -414,13 +414,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="118" BeginID="53" EndID="95" Rate="-1" Title="1  × X_S2_V3 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="118" BeginID="53" EndID="95" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S2_V3 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -429,13 +429,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="148" BeginID="95" EndID="131" Rate="-1" Title="1  × X_V3_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="148" BeginID="95" EndID="131" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V3_T g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -444,13 +444,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="256" BeginID="17" EndID="254" Rate="-1" Title="1  × X_S1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="256" BeginID="17" EndID="254" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S1_V2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -459,13 +459,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="259" BeginID="254" EndID="19" Rate="-1" Title="1  × X_S1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="259" BeginID="254" EndID="19" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S1_V2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -474,13 +474,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="264" BeginID="21" EndID="262" Rate="-1" Title="1  × X_S2_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="264" BeginID="21" EndID="262" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S2_V2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -489,13 +489,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="267" BeginID="262" EndID="19" Rate="-1" Title="1  × X_S2_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="267" BeginID="262" EndID="19" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_S2_V2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -504,13 +504,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="356" BeginID="19" EndID="354" Rate="-1" Title="1  × X_V2_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="356" BeginID="19" EndID="354" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V2_T g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -519,13 +519,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="359" BeginID="354" EndID="349" Rate="-1" Title="1  × X_V2_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="359" BeginID="354" EndID="349" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V2_T g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -534,13 +534,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="403" BeginID="93" EndID="401" Rate="-1" Title="1  × X_V1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="403" BeginID="93" EndID="401" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V1_V2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -549,13 +549,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="406" BeginID="401" EndID="19" Rate="-1" Title="1  × X_V1_V2 g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="406" BeginID="401" EndID="19" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V1_V2 g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -564,13 +564,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="411" BeginID="93" EndID="409" Rate="-1" Title="1  × X_V1_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="411" BeginID="93" EndID="409" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V1_T g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -579,13 +579,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="414" BeginID="409" EndID="349" Rate="-1" Title="1  × X_V1_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="414" BeginID="409" EndID="349" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V1_T g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -594,13 +594,13 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
-    <Edge ID="433" BeginID="131" EndID="349" Rate="-1" Title="1  × X_V3_T g/y" ArrowOnCenter="true" ArrowPosition="50">
+    <Edge ID="433" BeginID="131" EndID="349" Rate="-1" Title="1 g/y" ArrowOnCenter="true" ArrowPosition="50">
       <Nodes />
-      <Label Text="1  × X_V3_T g/y">
+      <Label Text="1 g/y">
         <Offset>
           <X>5</X>
           <Y>0</Y>
@@ -609,7 +609,7 @@
         <Color>-16777216</Color>
       </Label>
       <Color>-16777216</Color>
-      <LongFormat>true</LongFormat>
+      <LongFormat>false</LongFormat>
       <Comment />
       <CommentVisible>false</CommentVisible>
     </Edge>
