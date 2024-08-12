@@ -1,0 +1,258 @@
+Materials(7):
+ST, LA, RO, BO, LI, NY, NO
+Operating units(9):
+ST_RO, ST_BO, ST_LI, RO_NY, BO_NY, BO_NO, LI_NO, NY_LA, NO_LA
+
+Maximal Structure:
+Materials(7):
+ST, LA, RO, BO, LI, NY, NO
+Operating units(9):
+ST_RO, ST_BO, ST_LI, RO_NY, BO_NY, BO_NO, LI_NO, NY_LA, NO_LA
+
+Feasible structure #1:
+Materials:
+ST (0 Euro/yr): -150 t/yr
+LA (-150 Euro/yr): 150 t/yr
+RO: balanced
+BO: balanced
+LI: balanced
+NY: balanced
+NO: balanced
+Operating units:
+50*ST_RO (1e-005 Euro/yr): ST (-50 t/yr) => RO (50 t/yr) 
+70*ST_BO (1e-005 Euro/yr): ST (-70 t/yr) => BO (70 t/yr) 
+30*ST_LI (1e-005 Euro/yr): ST (-30 t/yr) => LI (30 t/yr) 
+50*RO_NY (1e-005 Euro/yr): RO (-50 t/yr) => NY (50 t/yr) 
+30*BO_NY (1e-005 Euro/yr): BO (-30 t/yr) => NY (30 t/yr) 
+40*BO_NO (1e-005 Euro/yr): BO (-40 t/yr) => NO (40 t/yr) 
+30*LI_NO (1e-005 Euro/yr): LI (-30 t/yr) => NO (30 t/yr) 
+80*NY_LA (1e-005 Euro/yr): NY (-80 t/yr) => LA (80 t/yr) 
+70*NO_LA (1e-005 Euro/yr): NO (-70 t/yr) => LA (70 t/yr) 
+Total annual cost= -150 Euro/yr
+
+Feasible structure #2:
+Materials:
+ST (0 Euro/yr): -120 t/yr
+LA (-120 Euro/yr): 120 t/yr
+RO: balanced
+BO: balanced
+NY: balanced
+NO: balanced
+Operating units:
+50*ST_RO (1e-005 Euro/yr): ST (-50 t/yr) => RO (50 t/yr) 
+70*ST_BO (1e-005 Euro/yr): ST (-70 t/yr) => BO (70 t/yr) 
+50*RO_NY (1e-005 Euro/yr): RO (-50 t/yr) => NY (50 t/yr) 
+20*BO_NY (1e-005 Euro/yr): BO (-20 t/yr) => NY (20 t/yr) 
+50*BO_NO (1e-005 Euro/yr): BO (-50 t/yr) => NO (50 t/yr) 
+70*NY_LA (1e-005 Euro/yr): NY (-70 t/yr) => LA (70 t/yr) 
+50*NO_LA (1e-005 Euro/yr): NO (-50 t/yr) => LA (50 t/yr) 
+Total annual cost= -120 Euro/yr
+
+Feasible structure #3:
+Materials:
+ST (0 Euro/yr): -120 t/yr
+LA (-120 Euro/yr): 120 t/yr
+RO: balanced
+BO: balanced
+LI: balanced
+NY: balanced
+NO: balanced
+Operating units:
+50*ST_RO (1e-005 Euro/yr): ST (-50 t/yr) => RO (50 t/yr) 
+50*ST_BO (1e-005 Euro/yr): ST (-50 t/yr) => BO (50 t/yr) 
+20*ST_LI (1e-005 Euro/yr): ST (-20 t/yr) => LI (20 t/yr) 
+50*RO_NY (1e-005 Euro/yr): RO (-50 t/yr) => NY (50 t/yr) 
+50*BO_NO (1e-005 Euro/yr): BO (-50 t/yr) => NO (50 t/yr) 
+20*LI_NO (1e-005 Euro/yr): LI (-20 t/yr) => NO (20 t/yr) 
+50*NY_LA (1e-005 Euro/yr): NY (-50 t/yr) => LA (50 t/yr) 
+70*NO_LA (1e-005 Euro/yr): NO (-70 t/yr) => LA (70 t/yr) 
+Total annual cost= -120 Euro/yr
+
+Feasible structure #4:
+Materials:
+ST (0 Euro/yr): -110 t/yr
+LA (-110 Euro/yr): 110 t/yr
+RO: balanced
+BO: balanced
+LI: balanced
+NY: balanced
+NO: balanced
+Operating units:
+50*ST_RO (1e-005 Euro/yr): ST (-50 t/yr) => RO (50 t/yr) 
+30*ST_BO (1e-005 Euro/yr): ST (-30 t/yr) => BO (30 t/yr) 
+30*ST_LI (1e-005 Euro/yr): ST (-30 t/yr) => LI (30 t/yr) 
+50*RO_NY (1e-005 Euro/yr): RO (-50 t/yr) => NY (50 t/yr) 
+30*BO_NY (1e-005 Euro/yr): BO (-30 t/yr) => NY (30 t/yr) 
+30*LI_NO (1e-005 Euro/yr): LI (-30 t/yr) => NO (30 t/yr) 
+80*NY_LA (1e-005 Euro/yr): NY (-80 t/yr) => LA (80 t/yr) 
+30*NO_LA (1e-005 Euro/yr): NO (-30 t/yr) => LA (30 t/yr) 
+Total annual cost= -110 Euro/yr
+
+Feasible structure #5:
+Materials:
+ST (0 Euro/yr): -100 t/yr
+LA (-100 Euro/yr): 100 t/yr
+RO: balanced
+BO: balanced
+NY: balanced
+NO: balanced
+Operating units:
+50*ST_RO (1e-005 Euro/yr): ST (-50 t/yr) => RO (50 t/yr) 
+50*ST_BO (1e-005 Euro/yr): ST (-50 t/yr) => BO (50 t/yr) 
+50*RO_NY (1e-005 Euro/yr): RO (-50 t/yr) => NY (50 t/yr) 
+50*BO_NO (1e-005 Euro/yr): BO (-50 t/yr) => NO (50 t/yr) 
+50*NY_LA (1e-005 Euro/yr): NY (-50 t/yr) => LA (50 t/yr) 
+50*NO_LA (1e-005 Euro/yr): NO (-50 t/yr) => LA (50 t/yr) 
+Total annual cost= -99.9999 Euro/yr
+
+Feasible structure #6:
+Materials:
+ST (0 Euro/yr): -100 t/yr
+LA (-100 Euro/yr): 100 t/yr
+BO: balanced
+LI: balanced
+NY: balanced
+NO: balanced
+Operating units:
+70*ST_BO (1e-005 Euro/yr): ST (-70 t/yr) => BO (70 t/yr) 
+30*ST_LI (1e-005 Euro/yr): ST (-30 t/yr) => LI (30 t/yr) 
+40*BO_NY (1e-005 Euro/yr): BO (-40 t/yr) => NY (40 t/yr) 
+30*BO_NO (1e-005 Euro/yr): BO (-30 t/yr) => NO (30 t/yr) 
+30*LI_NO (1e-005 Euro/yr): LI (-30 t/yr) => NO (30 t/yr) 
+40*NY_LA (1e-005 Euro/yr): NY (-40 t/yr) => LA (40 t/yr) 
+60*NO_LA (1e-005 Euro/yr): NO (-60 t/yr) => LA (60 t/yr) 
+Total annual cost= -99.9999 Euro/yr
+
+Feasible structure #7:
+Materials:
+ST (0 Euro/yr): -80 t/yr
+LA (-80 Euro/yr): 80 t/yr
+RO: balanced
+BO: balanced
+NY: balanced
+Operating units:
+40*ST_RO (1e-005 Euro/yr): ST (-40 t/yr) => RO (40 t/yr) 
+40*ST_BO (1e-005 Euro/yr): ST (-40 t/yr) => BO (40 t/yr) 
+40*RO_NY (1e-005 Euro/yr): RO (-40 t/yr) => NY (40 t/yr) 
+40*BO_NY (1e-005 Euro/yr): BO (-40 t/yr) => NY (40 t/yr) 
+80*NY_LA (1e-005 Euro/yr): NY (-80 t/yr) => LA (80 t/yr) 
+Total annual cost= -79.9999 Euro/yr
+
+Feasible structure #8:
+Materials:
+ST (0 Euro/yr): -80 t/yr
+LA (-80 Euro/yr): 80 t/yr
+RO: balanced
+LI: balanced
+NY: balanced
+NO: balanced
+Operating units:
+50*ST_RO (1e-005 Euro/yr): ST (-50 t/yr) => RO (50 t/yr) 
+30*ST_LI (1e-005 Euro/yr): ST (-30 t/yr) => LI (30 t/yr) 
+50*RO_NY (1e-005 Euro/yr): RO (-50 t/yr) => NY (50 t/yr) 
+30*LI_NO (1e-005 Euro/yr): LI (-30 t/yr) => NO (30 t/yr) 
+50*NY_LA (1e-005 Euro/yr): NY (-50 t/yr) => LA (50 t/yr) 
+30*NO_LA (1e-005 Euro/yr): NO (-30 t/yr) => LA (30 t/yr) 
+Total annual cost= -79.9999 Euro/yr
+
+Feasible structure #9:
+Materials:
+ST (0 Euro/yr): -70 t/yr
+LA (-70 Euro/yr): 70 t/yr
+BO: balanced
+NY: balanced
+NO: balanced
+Operating units:
+70*ST_BO (1e-005 Euro/yr): ST (-70 t/yr) => BO (70 t/yr) 
+40*BO_NY (1e-005 Euro/yr): BO (-40 t/yr) => NY (40 t/yr) 
+30*BO_NO (1e-005 Euro/yr): BO (-30 t/yr) => NO (30 t/yr) 
+40*NY_LA (1e-005 Euro/yr): NY (-40 t/yr) => LA (40 t/yr) 
+30*NO_LA (1e-005 Euro/yr): NO (-30 t/yr) => LA (30 t/yr) 
+Total annual cost= -69.9999 Euro/yr
+
+Feasible structure #10:
+Materials:
+ST (0 Euro/yr): -70 t/yr
+LA (-70 Euro/yr): 70 t/yr
+BO: balanced
+LI: balanced
+NO: balanced
+Operating units:
+50*ST_BO (1e-005 Euro/yr): ST (-50 t/yr) => BO (50 t/yr) 
+20*ST_LI (1e-005 Euro/yr): ST (-20 t/yr) => LI (20 t/yr) 
+50*BO_NO (1e-005 Euro/yr): BO (-50 t/yr) => NO (50 t/yr) 
+20*LI_NO (1e-005 Euro/yr): LI (-20 t/yr) => NO (20 t/yr) 
+70*NO_LA (1e-005 Euro/yr): NO (-70 t/yr) => LA (70 t/yr) 
+Total annual cost= -69.9999 Euro/yr
+
+Feasible structure #11:
+Materials:
+ST (0 Euro/yr): -70 t/yr
+LA (-70 Euro/yr): 70 t/yr
+BO: balanced
+LI: balanced
+NY: balanced
+NO: balanced
+Operating units:
+40*ST_BO (1e-005 Euro/yr): ST (-40 t/yr) => BO (40 t/yr) 
+30*ST_LI (1e-005 Euro/yr): ST (-30 t/yr) => LI (30 t/yr) 
+40*BO_NY (1e-005 Euro/yr): BO (-40 t/yr) => NY (40 t/yr) 
+30*LI_NO (1e-005 Euro/yr): LI (-30 t/yr) => NO (30 t/yr) 
+40*NY_LA (1e-005 Euro/yr): NY (-40 t/yr) => LA (40 t/yr) 
+30*NO_LA (1e-005 Euro/yr): NO (-30 t/yr) => LA (30 t/yr) 
+Total annual cost= -69.9999 Euro/yr
+
+Feasible structure #12:
+Materials:
+ST (0 Euro/yr): -50 t/yr
+LA (-50 Euro/yr): 50 t/yr
+RO: balanced
+NY: balanced
+Operating units:
+50*ST_RO (1e-005 Euro/yr): ST (-50 t/yr) => RO (50 t/yr) 
+50*RO_NY (1e-005 Euro/yr): RO (-50 t/yr) => NY (50 t/yr) 
+50*NY_LA (1e-005 Euro/yr): NY (-50 t/yr) => LA (50 t/yr) 
+Total annual cost= -50 Euro/yr
+
+Feasible structure #13:
+Materials:
+ST (0 Euro/yr): -50 t/yr
+LA (-50 Euro/yr): 50 t/yr
+BO: balanced
+NO: balanced
+Operating units:
+50*ST_BO (1e-005 Euro/yr): ST (-50 t/yr) => BO (50 t/yr) 
+50*BO_NO (1e-005 Euro/yr): BO (-50 t/yr) => NO (50 t/yr) 
+50*NO_LA (1e-005 Euro/yr): NO (-50 t/yr) => LA (50 t/yr) 
+Total annual cost= -50 Euro/yr
+
+Feasible structure #14:
+Materials:
+ST (0 Euro/yr): -40 t/yr
+LA (-40 Euro/yr): 40 t/yr
+BO: balanced
+NY: balanced
+Operating units:
+40*ST_BO (1e-005 Euro/yr): ST (-40 t/yr) => BO (40 t/yr) 
+40*BO_NY (1e-005 Euro/yr): BO (-40 t/yr) => NY (40 t/yr) 
+40*NY_LA (1e-005 Euro/yr): NY (-40 t/yr) => LA (40 t/yr) 
+Total annual cost= -40 Euro/yr
+
+Feasible structure #15:
+Materials:
+ST (0 Euro/yr): -30 t/yr
+LA (-30 Euro/yr): 30 t/yr
+LI: balanced
+NO: balanced
+Operating units:
+30*ST_LI (1e-005 Euro/yr): ST (-30 t/yr) => LI (30 t/yr) 
+30*LI_NO (1e-005 Euro/yr): LI (-30 t/yr) => NO (30 t/yr) 
+30*NO_LA (1e-005 Euro/yr): NO (-30 t/yr) => LA (30 t/yr) 
+Total annual cost= -30 Euro/yr
+
+Feasible structure #16:
+Materials:
+Operating units:
+Total annual cost= 0 Euro/yr
+
+End.

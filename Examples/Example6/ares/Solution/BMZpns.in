@@ -1,0 +1,49 @@
+file_type=PNS_problem_v1 
+file_name=dert 
+
+measurement_units:
+mass_unit=t
+time_unit=yr
+money_unit=Euro
+
+defaults:
+material_type=intermediate
+material_flow_rate_lower_bound=0
+material_flow_rate_upper_bound=100000000
+material_price=0
+operating_unit_capacity_lower_bound=0
+operating_unit_capacity_upper_bound=100000000
+operating_unit_fix_cost=0
+operating_unit_proportional_cost=0
+
+materials:
+ST: raw_material
+LA: product, price=1
+RO: intermediate, flow_rate_upper_bound=0
+BO: intermediate, flow_rate_upper_bound=0
+LI: intermediate, flow_rate_upper_bound=0
+NY: intermediate, flow_rate_upper_bound=0
+NO: intermediate, flow_rate_upper_bound=0
+
+operating_units:
+ST_RO: capacity_upper_bound=50.0, fix_cost=1E-5
+ST_BO: capacity_upper_bound=70.0, fix_cost=1E-5
+ST_LI: capacity_upper_bound=40.0, fix_cost=1E-5
+RO_NY: capacity_upper_bound=60.0, fix_cost=1E-5
+BO_NY: capacity_upper_bound=40.0, fix_cost=1E-5
+BO_NO: capacity_upper_bound=50.0, fix_cost=1E-5
+LI_NO: capacity_upper_bound=30.0, fix_cost=1E-5
+NY_LA: capacity_upper_bound=80.0, fix_cost=1E-5
+NO_LA: capacity_upper_bound=70.0, fix_cost=1E-5
+
+material_to_operating_unit_flow_rates:
+ST_RO: ST => RO
+ST_BO: ST => BO
+ST_LI: ST => LI
+RO_NY: RO => NY
+BO_NY: BO => NY
+BO_NO: BO => NO
+LI_NO: LI => NO
+NY_LA: NY => LA
+NO_LA: NO => LA
+
