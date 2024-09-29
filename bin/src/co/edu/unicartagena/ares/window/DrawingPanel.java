@@ -606,7 +606,9 @@ public class DrawingPanel extends JPanel implements MouseMotionListener, MouseLi
         this.solution=solution;
         setSolutionNodes(feasible_solution);
         //CHANGE JAN 23 2024
-        UIMain.setMaxFlow(String.valueOf(Math.ceil(this.feasible_solution.getMax_flow())));
+        //UIMain.setMaxFlow(String.valueOf(Math.ceil(this.feasible_solution.getMax_flow())));
+        //CHANGE SEP 20 2024
+        UIMain.setMaxFlow(String.valueOf(this.feasible_solution.getMax_flow()));
         
         this.repaint();
     }
