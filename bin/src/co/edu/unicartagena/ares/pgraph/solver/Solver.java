@@ -58,12 +58,12 @@ public class Solver extends TimerTask  {
 	try{
             //r.execute("C:\\Users\\jc_go\\Documents\\NetBeansProjects\\ARES\\B2PStudio.IDE\\PNSStudio_2015\\pns_depth.exe INSIDEOUT "+
             r.execute("C:\\Users\\jc_go\\Documents\\NetBeansProjects\\ARES\\B2PStudio.IDE\\PNSStudio_2015\\pns_depth.exe INSIDEOUT "+
-            this.file+" "+file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-4)+".out "+maxRoutes);
+            this.file+" "+file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-3)+".out "+maxRoutes);
             //new File("img\\").getAbsolutePath().toString()+"\\"+file.substring(file.lastIndexOf("\\")+1,file.length()-7)+".routes 1000");
             //System.out.println("EXECUTE");
             //System.out.println("C:\\Users\\jc_go\\Documents\\NetBeansProjects\\ARES\\B2PStudio.IDE\\PNSStudio\\pns_depth.exe INSIDEOUT "+
             //this.file+" "+file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-4)+".out "+maxRoutes);
-            return getFeasibleSolutions(file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-4)+".out",null);
+            return getFeasibleSolutions(file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-3)+".out",null);
         }
 	catch(IOException e){
             System.out.println("RuntimeExecutor "+e);
@@ -71,17 +71,17 @@ public class Solver extends TimerTask  {
 	}        
     }
     
-    //UPDATE 17/05/2023
+    //UPDATE 10/10/2024
+    //CURRENT IMPLEMENTATION
     public ArrayList<Solution> createModel2() throws TimeoutException, IOException, InterruptedException{
        try{
             //CHANGE "C:\\Users\\jc_go\\Documents\\NetBeansProjects\\ARES\\B2PStudio.IDE\\PNSStudio_2015\\
-            
             String rm =file.substring(0,file.lastIndexOf("\\"));
             rm =rm.substring(0,rm.lastIndexOf("\\")+1);
             
             
             Process p = Runtime.getRuntime().exec(rm+"PNSSolver\\pgraph_solver.exe INSIDEOUT "+
-            this.file+" "+file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-4)+".out "+maxRoutes);
+            this.file+" "+file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-3)+".out "+maxRoutes);
             BufferedReader r = new BufferedReader(new InputStreamReader(p.getInputStream()));
         String line;
         String comp_time="";

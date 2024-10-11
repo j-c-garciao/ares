@@ -1,0 +1,62 @@
+file_type=PNS_problem_v1 
+file_name=dert 
+
+measurement_units:
+mass_unit=t
+time_unit=yr
+money_unit=Euro
+
+defaults:
+material_type=intermediate
+material_flow_rate_lower_bound=0
+material_flow_rate_upper_bound=100000000
+material_price=0
+operating_unit_capacity_lower_bound=0
+operating_unit_capacity_upper_bound=100000000
+operating_unit_fix_cost=0
+operating_unit_proportional_cost=0
+
+materials:
+Z1: raw_material
+Z11: product, price=1
+
+operating_units:
+Z1_Z3: capacity_lower_bound=0.0, capacity_upper_bound=1600.0
+Z1_Z2: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
+Z2_Z3: capacity_lower_bound=0.0, capacity_upper_bound=250.0
+Z3_Z8: capacity_lower_bound=0.0, capacity_upper_bound=1000.0
+Z3_Z9: capacity_lower_bound=0.0, capacity_upper_bound=400.0
+Z8_Z9: capacity_lower_bound=0.0, capacity_upper_bound=1000.0
+Z2_Z5: capacity_lower_bound=0.0, capacity_upper_bound=1000.0
+Z2_Z4: capacity_lower_bound=0.0, capacity_upper_bound=3000.0
+Z4_Z5: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
+Z9_Z10: capacity_lower_bound=0.0, capacity_upper_bound=500.0
+Z8_Z10: capacity_lower_bound=0.0, capacity_upper_bound=1600.0
+Z5_Z7: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
+Z4_Z6: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
+Z4_Z7: capacity_lower_bound=0.0, capacity_upper_bound=3000.0
+Z6_Z7: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
+Z10_Z11: capacity_lower_bound=0.0, capacity_upper_bound=1500.0
+Z7_Z11: capacity_lower_bound=0.0, capacity_upper_bound=1200.0
+Z6_Z11: capacity_lower_bound=0.0, capacity_upper_bound=1500.0
+
+material_to_operating_unit_flow_rates:
+Z1_Z3: Z1 => Z3
+Z1_Z2: Z1 => Z2
+Z2_Z3: Z2 => Z3
+Z3_Z8: Z3 => Z8
+Z3_Z9: Z3 => Z9
+Z8_Z9: Z8 => Z9
+Z2_Z5: Z2 => Z5
+Z2_Z4: Z2 => Z4
+Z4_Z5: Z4 => Z5
+Z9_Z10: Z9 => Z10
+Z8_Z10: Z8 => Z10
+Z5_Z7: Z5 => Z7
+Z4_Z6: Z4 => Z6
+Z4_Z7: Z4 => Z7
+Z6_Z7: Z6 => Z7
+Z10_Z11: Z10 => Z11
+Z7_Z11: Z7 => Z11
+Z6_Z11: Z6 => Z11
+

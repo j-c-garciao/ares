@@ -1,0 +1,2676 @@
+Materials(11):
+Z1, Z11, Z3, Z2, Z8, Z9, Z5, Z4, Z10, Z7, Z6
+Operating units(18):
+Z1_Z3, Z1_Z2, Z2_Z3, Z3_Z8, Z3_Z9, Z8_Z9, Z2_Z5, Z2_Z4, Z4_Z5, Z9_Z10, Z8_Z10, 
+  Z5_Z7, Z4_Z6, Z4_Z7, Z6_Z7, Z10_Z11, Z7_Z11, Z6_Z11
+
+Maximal Structure:
+Materials(11):
+Z1, Z11, Z3, Z2, Z8, Z9, Z5, Z4, Z10, Z7, Z6
+Operating units(18):
+Z1_Z3, Z1_Z2, Z2_Z3, Z3_Z8, Z3_Z9, Z8_Z9, Z2_Z5, Z2_Z4, Z4_Z5, Z9_Z10, Z8_Z10, 
+  Z5_Z7, Z4_Z6, Z4_Z7, Z6_Z7, Z10_Z11, Z7_Z11, Z6_Z11
+
+Feasible structure #1:
+Materials:
+Z1 (0 Euro/yr): -3400 t/yr
+Z11 (-3400 Euro/yr): 3400 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z2_Z4 (0 Euro/yr): Z2 (-1000 t/yr) => Z4 (1000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z4_Z6 (0 Euro/yr): Z4 (-1000 t/yr) => Z6 (1000 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z6_Z11 (0 Euro/yr): Z6 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -3400 Euro/yr
+
+Feasible structure #2:
+Materials:
+Z1 (0 Euro/yr): -3400 t/yr
+Z11 (-3400 Euro/yr): 3400 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z4_Z7 (0 Euro/yr): Z4 (-500 t/yr) => Z7 (500 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -3400 Euro/yr
+
+Feasible structure #3:
+Materials:
+Z1 (0 Euro/yr): -3400 t/yr
+Z11 (-3400 Euro/yr): 3400 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z4_Z5 (0 Euro/yr): Z4 (-500 t/yr) => Z5 (500 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+500*Z5_Z7 (0 Euro/yr): Z5 (-500 t/yr) => Z7 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -3400 Euro/yr
+
+Feasible structure #4:
+Materials:
+Z1 (0 Euro/yr): -3400 t/yr
+Z11 (-3400 Euro/yr): 3400 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+2000*Z4_Z6 (0 Euro/yr): Z4 (-2000 t/yr) => Z6 (2000 t/yr) 
+500*Z6_Z7 (0 Euro/yr): Z6 (-500 t/yr) => Z7 (500 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -3400 Euro/yr
+
+Feasible structure #5:
+Materials:
+Z1 (0 Euro/yr): -3000 t/yr
+Z11 (-3000 Euro/yr): 3000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z4_Z7 (0 Euro/yr): Z4 (-500 t/yr) => Z7 (500 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -3000 Euro/yr
+
+Feasible structure #6:
+Materials:
+Z1 (0 Euro/yr): -3000 t/yr
+Z11 (-3000 Euro/yr): 3000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+2000*Z4_Z6 (0 Euro/yr): Z4 (-2000 t/yr) => Z6 (2000 t/yr) 
+500*Z6_Z7 (0 Euro/yr): Z6 (-500 t/yr) => Z7 (500 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -3000 Euro/yr
+
+Feasible structure #7:
+Materials:
+Z1 (0 Euro/yr): -3000 t/yr
+Z11 (-3000 Euro/yr): 3000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z2_Z4 (0 Euro/yr): Z2 (-1000 t/yr) => Z4 (1000 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z4_Z6 (0 Euro/yr): Z4 (-1000 t/yr) => Z6 (1000 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z6_Z11 (0 Euro/yr): Z6 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -3000 Euro/yr
+
+Feasible structure #8:
+Materials:
+Z1 (0 Euro/yr): -3000 t/yr
+Z11 (-3000 Euro/yr): 3000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z4_Z5 (0 Euro/yr): Z4 (-500 t/yr) => Z5 (500 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+500*Z5_Z7 (0 Euro/yr): Z5 (-500 t/yr) => Z7 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -3000 Euro/yr
+
+Feasible structure #9:
+Materials:
+Z1 (0 Euro/yr): -2900 t/yr
+Z11 (-2900 Euro/yr): 2900 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1500*Z1_Z2 (0 Euro/yr): Z1 (-1500 t/yr) => Z2 (1500 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2900 Euro/yr
+
+Feasible structure #10:
+Materials:
+Z1 (0 Euro/yr): -2600 t/yr
+Z11 (-2600 Euro/yr): 2600 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2600 Euro/yr
+
+Feasible structure #11:
+Materials:
+Z1 (0 Euro/yr): -2600 t/yr
+Z11 (-2600 Euro/yr): 2600 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2600 Euro/yr
+
+Feasible structure #12:
+Materials:
+Z1 (0 Euro/yr): -2600 t/yr
+Z11 (-2600 Euro/yr): 2600 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2600 Euro/yr
+
+Feasible structure #13:
+Materials:
+Z1 (0 Euro/yr): -2600 t/yr
+Z11 (-2600 Euro/yr): 2600 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2600 Euro/yr
+
+Feasible structure #14:
+Materials:
+Z1 (0 Euro/yr): -2600 t/yr
+Z11 (-2600 Euro/yr): 2600 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2600 Euro/yr
+
+Feasible structure #15:
+Materials:
+Z1 (0 Euro/yr): -2600 t/yr
+Z11 (-2600 Euro/yr): 2600 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2600 Euro/yr
+
+Feasible structure #16:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z2_Z4 (0 Euro/yr): Z2 (-1000 t/yr) => Z4 (1000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z4_Z6 (0 Euro/yr): Z4 (-1000 t/yr) => Z6 (1000 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z6_Z11 (0 Euro/yr): Z6 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #17:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1500*Z1_Z2 (0 Euro/yr): Z1 (-1500 t/yr) => Z2 (1500 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #18:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z4_Z7 (0 Euro/yr): Z4 (-500 t/yr) => Z7 (500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #19:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+2000*Z4_Z6 (0 Euro/yr): Z4 (-2000 t/yr) => Z6 (2000 t/yr) 
+500*Z6_Z7 (0 Euro/yr): Z6 (-500 t/yr) => Z7 (500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #20:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z4_Z7 (0 Euro/yr): Z4 (-500 t/yr) => Z7 (500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #21:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z2_Z4 (0 Euro/yr): Z2 (-1000 t/yr) => Z4 (1000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z4_Z6 (0 Euro/yr): Z4 (-1000 t/yr) => Z6 (1000 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z6_Z11 (0 Euro/yr): Z6 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #22:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+2000*Z4_Z6 (0 Euro/yr): Z4 (-2000 t/yr) => Z6 (2000 t/yr) 
+500*Z6_Z7 (0 Euro/yr): Z6 (-500 t/yr) => Z7 (500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #23:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z4_Z5 (0 Euro/yr): Z4 (-500 t/yr) => Z5 (500 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+500*Z5_Z7 (0 Euro/yr): Z5 (-500 t/yr) => Z7 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #24:
+Materials:
+Z1 (0 Euro/yr): -2500 t/yr
+Z11 (-2500 Euro/yr): 2500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z4_Z5 (0 Euro/yr): Z4 (-500 t/yr) => Z5 (500 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+500*Z5_Z7 (0 Euro/yr): Z5 (-500 t/yr) => Z7 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2500 Euro/yr
+
+Feasible structure #25:
+Materials:
+Z1 (0 Euro/yr): -2400 t/yr
+Z11 (-2400 Euro/yr): 2400 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z2_Z4 (0 Euro/yr): Z2 (-1000 t/yr) => Z4 (1000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z4_Z6 (0 Euro/yr): Z4 (-1000 t/yr) => Z6 (1000 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z6_Z11 (0 Euro/yr): Z6 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -2400 Euro/yr
+
+Feasible structure #26:
+Materials:
+Z1 (0 Euro/yr): -2400 t/yr
+Z11 (-2400 Euro/yr): 2400 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1000*Z1_Z2 (0 Euro/yr): Z1 (-1000 t/yr) => Z2 (1000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -2400 Euro/yr
+
+Feasible structure #27:
+Materials:
+Z1 (0 Euro/yr): -2400 t/yr
+Z11 (-2400 Euro/yr): 2400 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z4_Z7 (0 Euro/yr): Z4 (-500 t/yr) => Z7 (500 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2400 Euro/yr
+
+Feasible structure #28:
+Materials:
+Z1 (0 Euro/yr): -2400 t/yr
+Z11 (-2400 Euro/yr): 2400 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z4_Z5 (0 Euro/yr): Z4 (-500 t/yr) => Z5 (500 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+500*Z5_Z7 (0 Euro/yr): Z5 (-500 t/yr) => Z7 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2400 Euro/yr
+
+Feasible structure #29:
+Materials:
+Z1 (0 Euro/yr): -2400 t/yr
+Z11 (-2400 Euro/yr): 2400 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+2000*Z4_Z6 (0 Euro/yr): Z4 (-2000 t/yr) => Z6 (2000 t/yr) 
+500*Z6_Z7 (0 Euro/yr): Z6 (-500 t/yr) => Z7 (500 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2400 Euro/yr
+
+Feasible structure #30:
+Materials:
+Z1 (0 Euro/yr): -2200 t/yr
+Z11 (-2200 Euro/yr): 2200 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2200 Euro/yr
+
+Feasible structure #31:
+Materials:
+Z1 (0 Euro/yr): -2200 t/yr
+Z11 (-2200 Euro/yr): 2200 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2200 Euro/yr
+
+Feasible structure #32:
+Materials:
+Z1 (0 Euro/yr): -2200 t/yr
+Z11 (-2200 Euro/yr): 2200 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2200 Euro/yr
+
+Feasible structure #33:
+Materials:
+Z1 (0 Euro/yr): -2200 t/yr
+Z11 (-2200 Euro/yr): 2200 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2200 Euro/yr
+
+Feasible structure #34:
+Materials:
+Z1 (0 Euro/yr): -2200 t/yr
+Z11 (-2200 Euro/yr): 2200 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2200 Euro/yr
+
+Feasible structure #35:
+Materials:
+Z1 (0 Euro/yr): -2200 t/yr
+Z11 (-2200 Euro/yr): 2200 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -2200 Euro/yr
+
+Feasible structure #36:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z2: balanced
+Z4: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z4_Z7 (0 Euro/yr): Z4 (-500 t/yr) => Z7 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #37:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z2: balanced
+Z5: balanced
+Z4: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z2_Z4 (0 Euro/yr): Z2 (-1000 t/yr) => Z4 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z4_Z6 (0 Euro/yr): Z4 (-1000 t/yr) => Z6 (1000 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z6_Z11 (0 Euro/yr): Z6 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #38:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z2: balanced
+Z5: balanced
+Z4: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+500*Z4_Z5 (0 Euro/yr): Z4 (-500 t/yr) => Z5 (500 t/yr) 
+500*Z5_Z7 (0 Euro/yr): Z5 (-500 t/yr) => Z7 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #39:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z2: balanced
+Z4: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+2000*Z2_Z4 (0 Euro/yr): Z2 (-2000 t/yr) => Z4 (2000 t/yr) 
+2000*Z4_Z6 (0 Euro/yr): Z4 (-2000 t/yr) => Z6 (2000 t/yr) 
+500*Z6_Z7 (0 Euro/yr): Z6 (-500 t/yr) => Z7 (500 t/yr) 
+500*Z7_Z11 (0 Euro/yr): Z7 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #40:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+750*Z2_Z4 (0 Euro/yr): Z2 (-750 t/yr) => Z4 (750 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+750*Z4_Z6 (0 Euro/yr): Z4 (-750 t/yr) => Z6 (750 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+750*Z6_Z11 (0 Euro/yr): Z6 (-750 t/yr) => Z11 (750 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #41:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1000*Z1_Z2 (0 Euro/yr): Z1 (-1000 t/yr) => Z2 (1000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #42:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z4_Z5 (0 Euro/yr): Z4 (-250 t/yr) => Z5 (250 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+250*Z5_Z7 (0 Euro/yr): Z5 (-250 t/yr) => Z7 (250 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+250*Z7_Z11 (0 Euro/yr): Z7 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #43:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+750*Z2_Z4 (0 Euro/yr): Z2 (-750 t/yr) => Z4 (750 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+750*Z4_Z6 (0 Euro/yr): Z4 (-750 t/yr) => Z6 (750 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+750*Z6_Z11 (0 Euro/yr): Z6 (-750 t/yr) => Z11 (750 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #44:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1750*Z4_Z6 (0 Euro/yr): Z4 (-1750 t/yr) => Z6 (1750 t/yr) 
+250*Z6_Z7 (0 Euro/yr): Z6 (-250 t/yr) => Z7 (250 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+250*Z7_Z11 (0 Euro/yr): Z7 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #45:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+550*Z4_Z6 (0 Euro/yr): Z4 (-550 t/yr) => Z6 (550 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+550*Z6_Z11 (0 Euro/yr): Z6 (-550 t/yr) => Z11 (550 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #46:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1500*Z1_Z2 (0 Euro/yr): Z1 (-1500 t/yr) => Z2 (1500 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #47:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1500*Z1_Z2 (0 Euro/yr): Z1 (-1500 t/yr) => Z2 (1500 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #48:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1750*Z4_Z6 (0 Euro/yr): Z4 (-1750 t/yr) => Z6 (1750 t/yr) 
+250*Z6_Z7 (0 Euro/yr): Z6 (-250 t/yr) => Z7 (250 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+250*Z7_Z11 (0 Euro/yr): Z7 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #49:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+250*Z4_Z7 (0 Euro/yr): Z4 (-250 t/yr) => Z7 (250 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+250*Z7_Z11 (0 Euro/yr): Z7 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #50:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z4_Z5 (0 Euro/yr): Z4 (-250 t/yr) => Z5 (250 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+250*Z5_Z7 (0 Euro/yr): Z5 (-250 t/yr) => Z7 (250 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+250*Z7_Z11 (0 Euro/yr): Z7 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #51:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z4_Z5 (0 Euro/yr): Z4 (-250 t/yr) => Z5 (250 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+250*Z5_Z7 (0 Euro/yr): Z5 (-250 t/yr) => Z7 (250 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+250*Z7_Z11 (0 Euro/yr): Z7 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #52:
+Materials:
+Z1 (0 Euro/yr): -2000 t/yr
+Z11 (-2000 Euro/yr): 2000 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+2000*Z1_Z2 (0 Euro/yr): Z1 (-2000 t/yr) => Z2 (2000 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1750*Z2_Z4 (0 Euro/yr): Z2 (-1750 t/yr) => Z4 (1750 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1750*Z4_Z6 (0 Euro/yr): Z4 (-1750 t/yr) => Z6 (1750 t/yr) 
+250*Z6_Z7 (0 Euro/yr): Z6 (-250 t/yr) => Z7 (250 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+250*Z7_Z11 (0 Euro/yr): Z7 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -2000 Euro/yr
+
+Feasible structure #53:
+Materials:
+Z1 (0 Euro/yr): -1900 t/yr
+Z11 (-1900 Euro/yr): 1900 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1500*Z1_Z2 (0 Euro/yr): Z1 (-1500 t/yr) => Z2 (1500 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -1900 Euro/yr
+
+Feasible structure #54:
+Materials:
+Z1 (0 Euro/yr): -1750 t/yr
+Z11 (-1750 Euro/yr): 1750 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+1750*Z1_Z2 (0 Euro/yr): Z1 (-1750 t/yr) => Z2 (1750 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -1750 Euro/yr
+
+Feasible structure #55:
+Materials:
+Z1 (0 Euro/yr): -1750 t/yr
+Z11 (-1750 Euro/yr): 1750 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+1750*Z1_Z2 (0 Euro/yr): Z1 (-1750 t/yr) => Z2 (1750 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -1750 Euro/yr
+
+Feasible structure #56:
+Materials:
+Z1 (0 Euro/yr): -1750 t/yr
+Z11 (-1750 Euro/yr): 1750 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z6: balanced
+Operating units:
+1750*Z1_Z2 (0 Euro/yr): Z1 (-1750 t/yr) => Z2 (1750 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -1750 Euro/yr
+
+Feasible structure #57:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #58:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #59:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #60:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #61:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #62:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #63:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #64:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #65:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #66:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #67:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #68:
+Materials:
+Z1 (0 Euro/yr): -1700 t/yr
+Z11 (-1700 Euro/yr): 1700 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1700 Euro/yr
+
+Feasible structure #69:
+Materials:
+Z1 (0 Euro/yr): -1600 t/yr
+Z11 (-1600 Euro/yr): 1600 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1600 Euro/yr
+
+Feasible structure #70:
+Materials:
+Z1 (0 Euro/yr): -1600 t/yr
+Z11 (-1600 Euro/yr): 1600 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1600 Euro/yr
+
+Feasible structure #71:
+Materials:
+Z1 (0 Euro/yr): -1600 t/yr
+Z11 (-1600 Euro/yr): 1600 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1600 Euro/yr
+
+Feasible structure #72:
+Materials:
+Z1 (0 Euro/yr): -1600 t/yr
+Z11 (-1600 Euro/yr): 1600 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1600 Euro/yr
+
+Feasible structure #73:
+Materials:
+Z1 (0 Euro/yr): -1600 t/yr
+Z11 (-1600 Euro/yr): 1600 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1600 Euro/yr
+
+Feasible structure #74:
+Materials:
+Z1 (0 Euro/yr): -1600 t/yr
+Z11 (-1600 Euro/yr): 1600 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1600 Euro/yr
+
+Feasible structure #75:
+Materials:
+Z1 (0 Euro/yr): -1500 t/yr
+Z11 (-1500 Euro/yr): 1500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1000*Z1_Z2 (0 Euro/yr): Z1 (-1000 t/yr) => Z2 (1000 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1500 Euro/yr
+
+Feasible structure #76:
+Materials:
+Z1 (0 Euro/yr): -1500 t/yr
+Z11 (-1500 Euro/yr): 1500 t/yr
+Z2: balanced
+Z4: balanced
+Z6: balanced
+Operating units:
+1500*Z1_Z2 (0 Euro/yr): Z1 (-1500 t/yr) => Z2 (1500 t/yr) 
+1500*Z2_Z4 (0 Euro/yr): Z2 (-1500 t/yr) => Z4 (1500 t/yr) 
+1500*Z4_Z6 (0 Euro/yr): Z4 (-1500 t/yr) => Z6 (1500 t/yr) 
+1500*Z6_Z11 (0 Euro/yr): Z6 (-1500 t/yr) => Z11 (1500 t/yr) 
+Total annual cost= -1500 Euro/yr
+
+Feasible structure #77:
+Materials:
+Z1 (0 Euro/yr): -1500 t/yr
+Z11 (-1500 Euro/yr): 1500 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+1000*Z1_Z2 (0 Euro/yr): Z1 (-1000 t/yr) => Z2 (1000 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1500 Euro/yr
+
+Feasible structure #78:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #79:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #80:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #81:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #82:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #83:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #84:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #85:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #86:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #87:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #88:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #89:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #90:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #91:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #92:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #93:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #94:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #95:
+Materials:
+Z1 (0 Euro/yr): -1450 t/yr
+Z11 (-1450 Euro/yr): 1450 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z4: balanced
+Z10: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1450*Z1_Z2 (0 Euro/yr): Z1 (-1450 t/yr) => Z2 (1450 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1450 Euro/yr
+
+Feasible structure #96:
+Materials:
+Z1 (0 Euro/yr): -1400 t/yr
+Z11 (-1400 Euro/yr): 1400 t/yr
+Z3: balanced
+Z8: balanced
+Z9: balanced
+Z10: balanced
+Operating units:
+1400*Z1_Z3 (0 Euro/yr): Z1 (-1400 t/yr) => Z3 (1400 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1400*Z10_Z11 (0 Euro/yr): Z10 (-1400 t/yr) => Z11 (1400 t/yr) 
+Total annual cost= -1400 Euro/yr
+
+Feasible structure #97:
+Materials:
+Z1 (0 Euro/yr): -1400 t/yr
+Z11 (-1400 Euro/yr): 1400 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+1000*Z1_Z2 (0 Euro/yr): Z1 (-1000 t/yr) => Z2 (1000 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1400 Euro/yr
+
+Feasible structure #98:
+Materials:
+Z1 (0 Euro/yr): -1250 t/yr
+Z11 (-1250 Euro/yr): 1250 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1250*Z1_Z2 (0 Euro/yr): Z1 (-1250 t/yr) => Z2 (1250 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1250 Euro/yr
+
+Feasible structure #99:
+Materials:
+Z1 (0 Euro/yr): -1250 t/yr
+Z11 (-1250 Euro/yr): 1250 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1250*Z1_Z2 (0 Euro/yr): Z1 (-1250 t/yr) => Z2 (1250 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1250 Euro/yr
+
+Feasible structure #100:
+Materials:
+Z1 (0 Euro/yr): -1250 t/yr
+Z11 (-1250 Euro/yr): 1250 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z5: balanced
+Z10: balanced
+Z7: balanced
+Operating units:
+1250*Z1_Z2 (0 Euro/yr): Z1 (-1250 t/yr) => Z2 (1250 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1250 Euro/yr
+
+Feasible structure #101:
+Materials:
+Z1 (0 Euro/yr): -1200 t/yr
+Z11 (-1200 Euro/yr): 1200 t/yr
+Z2: balanced
+Z5: balanced
+Z4: balanced
+Z7: balanced
+Operating units:
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+200*Z4_Z5 (0 Euro/yr): Z4 (-200 t/yr) => Z5 (200 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1200 Euro/yr
+
+Feasible structure #102:
+Materials:
+Z1 (0 Euro/yr): -1200 t/yr
+Z11 (-1200 Euro/yr): 1200 t/yr
+Z2: balanced
+Z5: balanced
+Z4: balanced
+Z7: balanced
+Operating units:
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z7 (0 Euro/yr): Z4 (-200 t/yr) => Z7 (200 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1200 Euro/yr
+
+Feasible structure #103:
+Materials:
+Z1 (0 Euro/yr): -1200 t/yr
+Z11 (-1200 Euro/yr): 1200 t/yr
+Z2: balanced
+Z5: balanced
+Z4: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+200*Z2_Z4 (0 Euro/yr): Z2 (-200 t/yr) => Z4 (200 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+200*Z4_Z6 (0 Euro/yr): Z4 (-200 t/yr) => Z6 (200 t/yr) 
+200*Z6_Z7 (0 Euro/yr): Z6 (-200 t/yr) => Z7 (200 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1200 Euro/yr
+
+Feasible structure #104:
+Materials:
+Z1 (0 Euro/yr): -1200 t/yr
+Z11 (-1200 Euro/yr): 1200 t/yr
+Z2: balanced
+Z4: balanced
+Z7: balanced
+Z6: balanced
+Operating units:
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z6 (0 Euro/yr): Z4 (-1200 t/yr) => Z6 (1200 t/yr) 
+1200*Z6_Z7 (0 Euro/yr): Z6 (-1200 t/yr) => Z7 (1200 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1200 Euro/yr
+
+Feasible structure #105:
+Materials:
+Z1 (0 Euro/yr): -1200 t/yr
+Z11 (-1200 Euro/yr): 1200 t/yr
+Z2: balanced
+Z4: balanced
+Z7: balanced
+Operating units:
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z7 (0 Euro/yr): Z4 (-1200 t/yr) => Z7 (1200 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1200 Euro/yr
+
+Feasible structure #106:
+Materials:
+Z1 (0 Euro/yr): -1200 t/yr
+Z11 (-1200 Euro/yr): 1200 t/yr
+Z2: balanced
+Z5: balanced
+Z4: balanced
+Z7: balanced
+Operating units:
+1200*Z1_Z2 (0 Euro/yr): Z1 (-1200 t/yr) => Z2 (1200 t/yr) 
+1200*Z2_Z4 (0 Euro/yr): Z2 (-1200 t/yr) => Z4 (1200 t/yr) 
+1200*Z4_Z5 (0 Euro/yr): Z4 (-1200 t/yr) => Z5 (1200 t/yr) 
+1200*Z5_Z7 (0 Euro/yr): Z5 (-1200 t/yr) => Z7 (1200 t/yr) 
+1200*Z7_Z11 (0 Euro/yr): Z7 (-1200 t/yr) => Z11 (1200 t/yr) 
+Total annual cost= -1200 Euro/yr
+
+Feasible structure #107:
+Materials:
+Z1 (0 Euro/yr): -1000 t/yr
+Z11 (-1000 Euro/yr): 1000 t/yr
+Z3: balanced
+Z8: balanced
+Z10: balanced
+Operating units:
+1000*Z1_Z3 (0 Euro/yr): Z1 (-1000 t/yr) => Z3 (1000 t/yr) 
+1000*Z3_Z8 (0 Euro/yr): Z3 (-1000 t/yr) => Z8 (1000 t/yr) 
+1000*Z8_Z10 (0 Euro/yr): Z8 (-1000 t/yr) => Z10 (1000 t/yr) 
+1000*Z10_Z11 (0 Euro/yr): Z10 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1000 Euro/yr
+
+Feasible structure #108:
+Materials:
+Z1 (0 Euro/yr): -1000 t/yr
+Z11 (-1000 Euro/yr): 1000 t/yr
+Z2: balanced
+Z5: balanced
+Z7: balanced
+Operating units:
+1000*Z1_Z2 (0 Euro/yr): Z1 (-1000 t/yr) => Z2 (1000 t/yr) 
+1000*Z2_Z5 (0 Euro/yr): Z2 (-1000 t/yr) => Z5 (1000 t/yr) 
+1000*Z5_Z7 (0 Euro/yr): Z5 (-1000 t/yr) => Z7 (1000 t/yr) 
+1000*Z7_Z11 (0 Euro/yr): Z7 (-1000 t/yr) => Z11 (1000 t/yr) 
+Total annual cost= -1000 Euro/yr
+
+Feasible structure #109:
+Materials:
+Z1 (0 Euro/yr): -500 t/yr
+Z11 (-500 Euro/yr): 500 t/yr
+Z3: balanced
+Z8: balanced
+Z9: balanced
+Z10: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+500*Z3_Z8 (0 Euro/yr): Z3 (-500 t/yr) => Z8 (500 t/yr) 
+500*Z8_Z9 (0 Euro/yr): Z8 (-500 t/yr) => Z9 (500 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+Total annual cost= -500 Euro/yr
+
+Feasible structure #110:
+Materials:
+Z1 (0 Euro/yr): -500 t/yr
+Z11 (-500 Euro/yr): 500 t/yr
+Z3: balanced
+Z8: balanced
+Z9: balanced
+Z10: balanced
+Operating units:
+500*Z1_Z3 (0 Euro/yr): Z1 (-500 t/yr) => Z3 (500 t/yr) 
+100*Z3_Z8 (0 Euro/yr): Z3 (-100 t/yr) => Z8 (100 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+100*Z8_Z9 (0 Euro/yr): Z8 (-100 t/yr) => Z9 (100 t/yr) 
+500*Z9_Z10 (0 Euro/yr): Z9 (-500 t/yr) => Z10 (500 t/yr) 
+500*Z10_Z11 (0 Euro/yr): Z10 (-500 t/yr) => Z11 (500 t/yr) 
+Total annual cost= -500 Euro/yr
+
+Feasible structure #111:
+Materials:
+Z1 (0 Euro/yr): -400 t/yr
+Z11 (-400 Euro/yr): 400 t/yr
+Z3: balanced
+Z9: balanced
+Z10: balanced
+Operating units:
+400*Z1_Z3 (0 Euro/yr): Z1 (-400 t/yr) => Z3 (400 t/yr) 
+400*Z3_Z9 (0 Euro/yr): Z3 (-400 t/yr) => Z9 (400 t/yr) 
+400*Z9_Z10 (0 Euro/yr): Z9 (-400 t/yr) => Z10 (400 t/yr) 
+400*Z10_Z11 (0 Euro/yr): Z10 (-400 t/yr) => Z11 (400 t/yr) 
+Total annual cost= -400 Euro/yr
+
+Feasible structure #112:
+Materials:
+Z1 (0 Euro/yr): -250 t/yr
+Z11 (-250 Euro/yr): 250 t/yr
+Z3: balanced
+Z2: balanced
+Z9: balanced
+Z10: balanced
+Operating units:
+250*Z1_Z2 (0 Euro/yr): Z1 (-250 t/yr) => Z2 (250 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z9 (0 Euro/yr): Z3 (-250 t/yr) => Z9 (250 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+Total annual cost= -250 Euro/yr
+
+Feasible structure #113:
+Materials:
+Z1 (0 Euro/yr): -250 t/yr
+Z11 (-250 Euro/yr): 250 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z9: balanced
+Z10: balanced
+Operating units:
+250*Z1_Z2 (0 Euro/yr): Z1 (-250 t/yr) => Z2 (250 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z9 (0 Euro/yr): Z8 (-250 t/yr) => Z9 (250 t/yr) 
+250*Z9_Z10 (0 Euro/yr): Z9 (-250 t/yr) => Z10 (250 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+Total annual cost= -250 Euro/yr
+
+Feasible structure #114:
+Materials:
+Z1 (0 Euro/yr): -250 t/yr
+Z11 (-250 Euro/yr): 250 t/yr
+Z3: balanced
+Z2: balanced
+Z8: balanced
+Z10: balanced
+Operating units:
+250*Z1_Z2 (0 Euro/yr): Z1 (-250 t/yr) => Z2 (250 t/yr) 
+250*Z2_Z3 (0 Euro/yr): Z2 (-250 t/yr) => Z3 (250 t/yr) 
+250*Z3_Z8 (0 Euro/yr): Z3 (-250 t/yr) => Z8 (250 t/yr) 
+250*Z8_Z10 (0 Euro/yr): Z8 (-250 t/yr) => Z10 (250 t/yr) 
+250*Z10_Z11 (0 Euro/yr): Z10 (-250 t/yr) => Z11 (250 t/yr) 
+Total annual cost= -250 Euro/yr
+
+Feasible structure #115:
+Materials:
+Operating units:
+Total annual cost= 0 Euro/yr
+
+End.
