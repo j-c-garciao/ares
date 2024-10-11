@@ -6,6 +6,10 @@ _ares_ relies on the application _pgraph_solver.exe_ (refer to folder [PNSStudio
 
 ![Alt text](https://github.com/j-c-garciao/ares/blob/main/Screenshot/Screenshot.png?raw=true "ares Main window")
 
+## Examples
+
+In folder [Examples(https://github.com/j-c-garciao/ares/tree/main/Examples)]
+
 ## Build with
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
