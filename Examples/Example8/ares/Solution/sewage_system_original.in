@@ -1,0 +1,76 @@
+file_type=PNS_problem_v1 
+file_name=dert 
+
+measurement_units:
+mass_unit=t
+time_unit=yr
+money_unit=Euro
+
+defaults:
+material_type=intermediate
+material_flow_rate_lower_bound=0
+material_flow_rate_upper_bound=100000000
+material_price=0
+operating_unit_capacity_lower_bound=0
+operating_unit_capacity_upper_bound=100000000
+operating_unit_fix_cost=0
+operating_unit_proportional_cost=0
+
+materials:
+SuperSource: raw_material
+WwTP: product, price=1
+
+operating_units:
+RD2_WwTP: capacity_lower_bound=0.0, capacity_upper_bound=0.08
+B4_MH5: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+B3_MH5: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+B2_MH3: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+A1_MH1: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+RD1_WwTP: capacity_lower_bound=0.0, capacity_upper_bound=0.08
+MH1_MH2: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+A2_MH2: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+A3_MH2: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+MH2_WwTP: capacity_lower_bound=0.0, capacity_upper_bound=1.15
+B1_MH4: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+MH3_MH4: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+B5_MH4: capacity_lower_bound=0.0, capacity_upper_bound=0.33
+MH4_WwTP: capacity_lower_bound=0.0, capacity_upper_bound=1.15
+MH5_WwTP: capacity_lower_bound=0.0, capacity_upper_bound=1.15
+SuperSource_B2: capacity_upper_bound=1000000000
+SuperSource_A1: capacity_upper_bound=1000000000
+SuperSource_RD2: capacity_upper_bound=1000000000
+SuperSource_B3: capacity_upper_bound=1000000000
+SuperSource_A2: capacity_upper_bound=1000000000
+SuperSource_B4: capacity_upper_bound=1000000000
+SuperSource_A3: capacity_upper_bound=1000000000
+SuperSource_B5: capacity_upper_bound=1000000000
+SuperSource_RD1: capacity_upper_bound=1000000000
+SuperSource_B1: capacity_upper_bound=1000000000
+
+material_to_operating_unit_flow_rates:
+RD2_WwTP: RD2 => WwTP
+B4_MH5: B4 => MH5
+B3_MH5: B3 => MH5
+B2_MH3: B2 => MH3
+A1_MH1: A1 => MH1
+RD1_WwTP: RD1 => WwTP
+MH1_MH2: MH1 => MH2
+A2_MH2: A2 => MH2
+A3_MH2: A3 => MH2
+MH2_WwTP: MH2 => WwTP
+B1_MH4: B1 => MH4
+MH3_MH4: MH3 => MH4
+B5_MH4: B5 => MH4
+MH4_WwTP: MH4 => WwTP
+MH5_WwTP: MH5 => WwTP
+SuperSource_B2: SuperSource => B2
+SuperSource_A1: SuperSource => A1
+SuperSource_RD2: SuperSource => RD2
+SuperSource_B3: SuperSource => B3
+SuperSource_A2: SuperSource => A2
+SuperSource_B4: SuperSource => B4
+SuperSource_A3: SuperSource => A3
+SuperSource_B5: SuperSource => B5
+SuperSource_RD1: SuperSource => RD1
+SuperSource_B1: SuperSource => B1
+
