@@ -42,8 +42,10 @@ public class RunTime {
     public double [] execute() throws TimeoutException{
 	     double [] array = new double[2];
 		 try{
-			 Process p = Runtime.getRuntime().exec("C:\\Users\\jc_go\\Dropbox\\1.-JCGO\\2.-WIZARDSLAB.SAS\\SOFTWARE\\P-graph\\PNSStudio_old\\pns_solver.exe INSIDEOUT "+
-	    	                           //new File(System.getProperty("user.dir")+"files\\"+input_file_name+"\\pns\\in\\"+file+".pns.in").getAbsolutePath() +" "+
+			 Process p = //Runtime.getRuntime().exec("C:\\Users\\jc_go\\Dropbox\\1.-JCGO\\2.-WIZARDSLAB.SAS\\SOFTWARE\\P-graph\\PNSStudio_old\\pns_solver.exe INSIDEOUT "+
+                                 Runtime.getRuntime().exec("C:\\Users\\jc_go\\Dropbox\\1.-JCGO\\2.-WIZARDSLAB.SAS\\SOFTWARE\\P-graph\\PNSStudio_old\\pns_solver.exe INSIDEOUT "+
+	    	                                   //C:\\Users\\jc_go\\Documents\\NetBeansProjects\\ARES\\B2PStudio.IDE\\PNSStudio_2015\\pns_depth.exe INSIDEOUT
+                                                   //new File(System.getProperty("user.dir")+"files\\"+input_file_name+"\\pns\\in\\"+file+".pns.in").getAbsolutePath() +" "+
 	    			                   //new File(System.getProperty("user.dir")+"files\\"+input_file_name+"\\pns\\out").getAbsolutePath().toString()+"\\"+file+".pns.out");
 	    			                   new File(DIR_PNSFILE+"\\"+file+".pns.in").getAbsolutePath() +" "+
 	    			                   new File(DIR_PNSFILE+"\\files\\"+file+".pns.out") +" "+this.maxPlans);

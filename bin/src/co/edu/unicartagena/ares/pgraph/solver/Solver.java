@@ -97,7 +97,7 @@ public class Solver extends TimerTask  {
             
             
             Thread.sleep(5000);
-            return getFeasibleSolutions(file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-4)+".out",comp_time);
+            return getFeasibleSolutions(file.substring(0,file.lastIndexOf("\\")+1)+this.file.substring(file.lastIndexOf("\\")+1,file.length()-3)+".out",comp_time);
         }
 	catch(IOException e){
             System.out.println("RuntimeExecutor "+e);
