@@ -1,0 +1,55 @@
+file_type=PNS_problem_v1 
+file_name=dert 
+
+measurement_units:
+mass_unit=t
+time_unit=yr
+money_unit=Euro
+
+defaults:
+material_type=intermediate
+material_flow_rate_lower_bound=0
+material_flow_rate_upper_bound=100000000
+material_price=0
+operating_unit_capacity_lower_bound=0
+operating_unit_capacity_upper_bound=100000000
+operating_unit_fix_cost=0
+operating_unit_proportional_cost=0
+
+materials:
+S: raw_material
+T: product, price=1
+N2: intermediate, flow_rate_upper_bound=0
+N3: intermediate, flow_rate_upper_bound=0
+N4: intermediate, flow_rate_upper_bound=0
+N6: intermediate, flow_rate_upper_bound=0
+N5: intermediate, flow_rate_upper_bound=0
+
+operating_units:
+S_N2: capacity_upper_bound=20.0, fix_cost=1E-6
+S_N3: capacity_upper_bound=20.0, fix_cost=1E-6
+N3_N2: capacity_upper_bound=2.0, fix_cost=1E-6
+N2_N4: capacity_upper_bound=15.0, fix_cost=1E-6
+N2_N6: capacity_upper_bound=12.0, fix_cost=1E-6
+N3_N6: capacity_upper_bound=8.0, fix_cost=1E-6
+N3_N5: capacity_upper_bound=23.0, fix_cost=1E-6
+N4_N6: capacity_upper_bound=6.0, fix_cost=1E-6
+N5_N6: capacity_upper_bound=15.0, fix_cost=1E-6
+N4_T: capacity_upper_bound=14.0, fix_cost=1E-6
+N5_T: capacity_upper_bound=16.0, fix_cost=1E-6
+N6_T: capacity_upper_bound=4.0, fix_cost=1E-6
+
+material_to_operating_unit_flow_rates:
+S_N2: S => N2
+S_N3: S => N3
+N3_N2: N3 => N2
+N2_N4: N2 => N4
+N2_N6: N2 => N6
+N3_N6: N3 => N6
+N3_N5: N3 => N5
+N4_N6: N4 => N6
+N5_N6: N5 => N6
+N4_T: N4 => T
+N5_T: N5 => T
+N6_T: N6 => T
+
