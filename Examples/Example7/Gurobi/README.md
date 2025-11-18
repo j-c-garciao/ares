@@ -13,33 +13,40 @@ Download from: https://www.python.org/downloads/
 
 ### 2. Gurobi Optimizer
 
+``` bash
 Install Gurobi and activate a valid license.\
 Guide: https://www.gurobi.com/documentation/
-
+``` 
 ### 3. Python Dependencies
 
-    pip install gurobipy pandas numpy
+``` bash
+pip install gurobipy pandas numpy
+``` 
 
 ## Setting Up the Gurobi License
 
 Academic license activation:
 
-    grbgetkey <LICENSE-KEY>
+``` bash
+grbgetkey <LICENSE-KEY>
+``` 
 
 Check license:
 
-    grbprobe
+``` bash
+grbprobe
+``` 
 
 ## How to Run the Model
 
-    python main.py
+``` bash
+python gurobi_model.py
+```
 
 ## Model Output
 
 Example:
 
-    Optimal objective: 2500.00
-
-## Citation
-
-Gurobi Optimization, LLC. "Gurobi Optimizer Reference Manual." (2024).
+``` bash
+Optimal objective: 2500.00
+``` 
