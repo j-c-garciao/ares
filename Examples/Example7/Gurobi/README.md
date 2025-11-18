@@ -34,31 +34,11 @@ Check license:
 
     python main.py
 
-Optional arguments:
-
-    python main.py --input data/input.xlsx --k 10 --verbose 1
-
-## Project Structure
-
-    ├── main.py
-    ├── model_utils.py
-    ├── data/
-    ├── results/
-    ├── README.md
-    └── requirements.txt
-
 ## Model Output
 
 Example:
 
     Optimal objective: 2500.00
-    Solution written to results/solution_01.txt
-
-## Modifying Gurobi Parameters
-
-    model.setParam("TimeLimit", 60)
-    model.setParam("MIPGap", 0.001)
-    model.setParam("OutputFlag", 1)
 
 ## Citation
 
