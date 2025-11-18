@@ -15,12 +15,15 @@ Optional: Microsoft Excel (for exporting solution tables)
 
 ### Installing P-Graph Studio
 
-Visit the official P-Graph website:
+- Visit the official P-Graph website:
+
+´´´ bash
 https://pgraph.org
-
-Go to:
+´´´
+- Go to:
+´´´ bash 
 Download → P-Graph Studio
-
+´´´
 Select the appropriate installer (usually: P-Graph Studio 5.x for Windows).
 
 Download the installer .exe file.
