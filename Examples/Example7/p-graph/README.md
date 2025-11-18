@@ -40,18 +40,20 @@ Download → P-Graph Studio
 
 **1\.** Launch P-Graph Studio.
 
-In the menu bar, click
-File → Open…
+**2\.** In the menu bar, click
 
-Navigate to the models/ folder in this repository (or wherever you placed your files).
+	2.1 File → Open…
 
-Select the desired file, for example:
+**3\.** Navigate to the models/ folder in this repository (or wherever you placed your files).
+
+**4\.** Select the desired file, for example:
 
 ´´´ bash
 network_model.psgx
 ´´´
 
-Click Open.
+**5\.**Click Open.
+
 The full P-Graph model (materials, operating units, structure) will be displayed.
 
 ### Executing the P-Graph Model
