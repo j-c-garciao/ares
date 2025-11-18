@@ -36,7 +36,7 @@ Z5_Z7: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
 Z4_Z6: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
 Z4_Z7: capacity_lower_bound=0.0, capacity_upper_bound=3000.0
 Z6_Z7: capacity_lower_bound=0.0, capacity_upper_bound=2000.0
-Z10_Z11: capacity_lower_bound=0.0, capacity_upper_bound=1500.0
+Z10_Z11: capacity_lower_bound=0.0, capacity_upper_bound=500.0
 Z7_Z11: capacity_lower_bound=0.0, capacity_upper_bound=1200.0
 Z6_Z11: capacity_lower_bound=0.0, capacity_upper_bound=1500.0
 
