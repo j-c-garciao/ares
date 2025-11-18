@@ -48,11 +48,11 @@ Download → P-Graph Studio
 
 **4\.** Select the desired file, for example:
 
-´´´ bash
+``` bash
 network_model.psgx
-´´´
+```
 
-**5\.**Click Open.
+**5\.** Click Open.
 
 The full P-Graph model (materials, operating units, structure) will be displayed.
 
