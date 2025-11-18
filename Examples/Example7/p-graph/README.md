@@ -15,30 +15,30 @@ Optional: Microsoft Excel (for exporting solution tables)
 
 ### Installing P-Graph Studio
 
-**1.** Visit the official P-Graph website:
+**1\.** Visit the official P-Graph website:
 
 ``` bash
 https://pgraph.org
 ```
-**2. ** Go to:
+**2\.** Go to:
 ``` bash 
 Download → P-Graph Studio
 ```
-**3. ** Select the appropriate installer (usually: P-Graph Studio 5.x for Windows).
+**3\.** Select the appropriate installer (usually: P-Graph Studio 5.x for Windows).
 
-**4. ** Download the installer .exe file.
+**4\.** Download the installer .exe file.
 
-**5. ** Run the installer and follow the steps:
+**5\.** Run the installer and follow the steps:
 
 	5.1 Accept license agreement
 	5.2 Choose installation directory
 	5.3 Complete installation
 
-** 6.** Once installed, you will find P-Graph Studio in your Windows Start Menu.
+**6\.** Once installed, you will find P-Graph Studio in your Windows Start Menu.
 
 ### Opening a .psgx File
 
-**1. ** Launch P-Graph Studio.
+**1\.** Launch P-Graph Studio.
 
 In the menu bar, click
 File → Open…
