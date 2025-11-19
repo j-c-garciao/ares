@@ -61,27 +61,18 @@ The full P-Graph model (materials, operating units, structure) will be displayed
 **1\.** To compute the optimal or sub-optimal solutions:
 
 	With the .psgx file open, go to the top menu and click:
-	Solve → Maximum Structure
-	(to compute the maximal structure)
+	Choose Algoithm ABB → Select Solutions limit → 
+	(to compute the maximal structure and to obtain the optimal and sub-optimal solutions)
 
-**2\.** Then select:
-
-	Solve → Solution Structure
-	(to obtain the optimal solution)
-
-**3\.** For multiple solutions (K-best):
-
-	Solve → k Solutions
-	
-**4\.** After solving, the results window will show:
+**2\.** After solving, the results window will show:
 
 	Solution structure graph
 	Material flows
 	Operating units used
 	Objective value
 
-**5\.** To export results:
+**3\.** To export results:
 
-	Click Export → Excel
+	Click File → Export → Excel
 
 Each .psgx file is ready to open directly in P-Graph Studio.
