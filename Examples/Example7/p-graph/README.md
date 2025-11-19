@@ -61,7 +61,7 @@ The full P-Graph model (materials, operating units, structure) will be displayed
 **1\.** To compute the optimal or sub-optimal solutions:
 
 	With the .psgx file open, go to the top menu and click:
-	Choose Algoithm ABB → Select Solutions limit → 
+	Choose Algorithm ABB → Select Solutions limit (>=1) → Solve Problem
 	(to compute the maximal structure and to obtain the optimal and sub-optimal solutions)
 
 **2\.** After solving, the results window will show:
