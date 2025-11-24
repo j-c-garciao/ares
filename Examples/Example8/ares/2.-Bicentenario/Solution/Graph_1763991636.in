@@ -1,0 +1,205 @@
+file_type=PNS_problem_v1
+file_name=Graph_1763991636
+
+measurement_units:
+mass_unit=m3
+time_unit=s
+money_unit=EUR
+
+defaults:
+material_type=intermediate
+material_flow_rate_lower_bound=0
+material_flow_rate_upper_bound=1000000000
+material_price=0
+operating_unit_capacity_lower_bound=0
+operating_unit_capacity_upper_bound=1000000000
+operating_unit_fix_cost=0
+operating_unit_proportional_cost=0
+
+materials:
+N1: intermediate
+N10: intermediate
+N11: intermediate
+N12: intermediate
+N13: intermediate
+N14: intermediate
+N15: intermediate
+N16: intermediate
+N17: intermediate
+N18: intermediate
+N19: intermediate
+N20: intermediate
+N21: intermediate
+N22: intermediate
+N23: intermediate
+N24: intermediate
+N25: intermediate
+N26: intermediate
+N27: intermediate
+N29: intermediate
+N3: intermediate
+N30: intermediate
+N31: product, price=1
+N5: intermediate
+N6: intermediate
+N7: intermediate
+N8: intermediate
+N9: intermediate
+NA: intermediate
+NB: intermediate
+NC: intermediate
+ND: intermediate
+NE: intermediate
+NF: intermediate
+NG: intermediate
+NH: intermediate
+NI: intermediate
+NJ: intermediate
+NK: intermediate
+NL: intermediate
+NM: intermediate
+NN: intermediate
+NO: intermediate
+NP: intermediate
+NQ: intermediate
+NR: intermediate
+SuperSource: raw_material
+
+operating_units:
+P1: capacity_upper_bound=0.05
+P10: capacity_upper_bound=0.09
+P11: capacity_upper_bound=0.13
+P12: capacity_upper_bound=0.05
+P13: capacity_upper_bound=0.13
+P14: capacity_upper_bound=0.05
+P15: capacity_upper_bound=0.03
+P16: capacity_upper_bound=0.03
+P17: capacity_upper_bound=0.03
+P18: capacity_upper_bound=0.13
+P19: capacity_upper_bound=0.03
+P2: capacity_upper_bound=0.05
+P20: capacity_upper_bound=0.03
+P21: capacity_upper_bound=0.03
+P22: capacity_upper_bound=0.13
+P23: capacity_upper_bound=0.19
+P24: capacity_upper_bound=0.13
+P25: capacity_upper_bound=0.09
+P26: capacity_upper_bound=0.19
+P27: capacity_upper_bound=0.19
+P28: capacity_upper_bound=0.19
+P29: capacity_upper_bound=0.34
+P3: capacity_upper_bound=0.09
+P30: capacity_upper_bound=0.34
+P31: capacity_upper_bound=0.03
+P32: capacity_upper_bound=0.05
+P33: capacity_upper_bound=0.09
+P34: capacity_upper_bound=0.09
+P35: capacity_upper_bound=0.09
+P36: capacity_upper_bound=0.05
+P37: capacity_upper_bound=0.09
+P38: capacity_upper_bound=0.09
+P39: capacity_upper_bound=0.03
+P4: capacity_upper_bound=0.03
+P40: capacity_upper_bound=0.05
+P41: capacity_upper_bound=0.05
+P42: capacity_upper_bound=0.05
+P43: capacity_upper_bound=0.03
+P44: capacity_upper_bound=0.05
+P45: capacity_upper_bound=0.05
+P46: capacity_upper_bound=0.09
+P47: capacity_upper_bound=0.05
+P48: capacity_upper_bound=0.13
+P49: capacity_upper_bound=0.09
+P5: capacity_upper_bound=0.03
+P50: capacity_upper_bound=0.03
+P51: capacity_upper_bound=0.03
+P52: capacity_upper_bound=0.09
+P53: capacity_upper_bound=0.05
+P54: capacity_upper_bound=0.05
+P55: capacity_upper_bound=0.03
+P56: capacity_upper_bound=0.03
+P57: capacity_upper_bound=0.09
+P58: capacity_upper_bound=0.09
+P59: capacity_upper_bound=0.09
+P6: capacity_upper_bound=0.03
+P7: capacity_upper_bound=0.03
+P8: capacity_upper_bound=0.05
+P9: capacity_upper_bound=0.05
+SuperSource_N1
+SuperSource_N17
+SuperSource_N18
+SuperSource_N19
+SuperSource_N20
+SuperSource_N27
+SuperSource_N6
+SuperSource_N9
+
+material_to_operating_unit_flow_rates:
+P1: N1 => NC
+P10: N7 => NN
+P11: NN => N5
+P12: N9 => N8
+P13: N9 => NL
+P14: N8 => N7
+P15: N7 => NM
+P16: NN => N25
+P17: NM => N25
+P18: N5 => N26
+P19: N25 => N26
+P2: N27 => NC
+P20: NM => N23
+P21: N8 => NK
+P22: NL => NK
+P23: NK => N23
+P24: N26 => N24
+P25: N23 => NJ
+P26: NJ => N24
+P27: N24 => NG
+P28: NG => N30
+P29: N30 => N29
+P3: NC => N31
+P30: N29 => N31
+P31: N17 => N16
+P32: N16 => N15
+P33: N15 => N10
+P34: N15 => N14
+P35: N10 => N11
+P36: N18 => N14
+P37: N14 => N11
+P38: N11 => NK
+P39: N20 => NB
+P4: N6 => NQ
+P40: NB => N21
+P41: N21 => N22
+P42: N22 => NE
+P43: N19 => NA
+P44: NA => N13
+P45: N13 => N21
+P46: N13 => ND
+P47: N21 => N14
+P48: ND => N30
+P49: NE => N12
+P5: N6 => NR
+P50: NE => NF
+P51: N11 => N12
+P52: N12 => NF
+P53: NF => N3
+P54: N3 => ND
+P55: N12 => NI
+P56: NI => N23
+P57: NF => NH
+P58: NI => NH
+P59: NH => NG
+P6: NQ => NO
+P7: NR => NP
+P8: NO => N5
+P9: NP => N7
+SuperSource_N1: SuperSource => N1
+SuperSource_N17: SuperSource => N17
+SuperSource_N18: SuperSource => N18
+SuperSource_N19: SuperSource => N19
+SuperSource_N20: SuperSource => N20
+SuperSource_N27: SuperSource => N27
+SuperSource_N6: SuperSource => N6
+SuperSource_N9: SuperSource => N9
+

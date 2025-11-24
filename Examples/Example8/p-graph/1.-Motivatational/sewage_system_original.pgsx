@@ -401,7 +401,7 @@
       </Coords>
       <Label Text="MH2">
         <Offset>
-          <X>-468</X>
+          <X>-657</X>
           <Y>-217</Y>
         </Offset>
         <FontSize>-1</FontSize>
@@ -477,8 +477,8 @@
       </Coords>
       <Label Text="MH4">
         <Offset>
-          <X>-509</X>
-          <Y>-73</Y>
+          <X>-643</X>
+          <Y>-151</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -698,7 +698,7 @@
       <Label Text="1 m³/s">
         <Offset>
           <X>5</X>
-          <Y>0</Y>
+          <Y>-295</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -709,11 +709,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="10" BeginID="1" EndID="8" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>9000</X>
+            <Y>2700</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>1088</X>
+          <Y>558</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -724,11 +731,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="17" BeginID="1" EndID="13" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>10500</X>
+            <Y>2700</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>1790</X>
+          <Y>470</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -739,11 +753,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="20" BeginID="1" EndID="15" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>11400</X>
+            <Y>2400</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>2530</X>
+          <Y>421</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -754,11 +775,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="25" BeginID="1" EndID="23" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>12000</X>
+            <Y>2100</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>2556</X>
+          <Y>56</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -769,11 +797,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="38" BeginID="1" EndID="28" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>6300</X>
+            <Y>2700</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-816</X>
+          <Y>804</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -784,11 +819,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="41" BeginID="1" EndID="30" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>5125</X>
+            <Y>2708</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-1312</X>
+          <Y>554</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -799,11 +841,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="44" BeginID="1" EndID="32" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>4200</X>
+            <Y>2700</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-3238</X>
+          <Y>698</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -814,11 +863,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="47" BeginID="1" EndID="34" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>3600</X>
+            <Y>2400</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-3627</X>
+          <Y>574</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -829,11 +885,18 @@
       <CommentVisible>false</CommentVisible>
     </Edge>
     <Edge ID="50" BeginID="1" EndID="36" Rate="-1" Title="1 m³/s" ArrowOnCenter="true" ArrowPosition="50">
-      <Nodes />
+      <Nodes>
+        <Node Order="0" Smooth="true" SmoothSizeBefore="250" SmoothSizeAfter="250" SmoothStrength="0.5">
+          <Coords>
+            <X>3000</X>
+            <Y>2100</Y>
+          </Coords>
+        </Node>
+      </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-3955</X>
+          <Y>262</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1072,8 +1135,8 @@
       <Nodes />
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-877</X>
+          <Y>-40</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1117,8 +1180,8 @@
       <Nodes />
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>76</X>
+          <Y>-131</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1207,8 +1270,8 @@
       <Nodes />
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>25</X>
+          <Y>-141</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1348,8 +1411,8 @@
       </Nodes>
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-662</X>
+          <Y>-10</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1393,8 +1456,8 @@
       <Nodes />
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-665</X>
+          <Y>-49</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1430,8 +1493,8 @@
       <Nodes />
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-1043</X>
+          <Y>-139</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1460,8 +1523,8 @@
       <Nodes />
       <Label Text="1 m³/s">
         <Offset>
-          <X>5</X>
-          <Y>0</Y>
+          <X>-25</X>
+          <Y>-222</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -1900,8 +1963,8 @@
       </Coords>
       <Label Text="P5">
         <Offset>
-          <X>-427</X>
-          <Y>-237</Y>
+          <X>-416</X>
+          <Y>-359</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -2064,8 +2127,8 @@
       </Coords>
       <Label Text="P9">
         <Offset>
-          <X>-430</X>
-          <Y>-255</Y>
+          <X>-419</X>
+          <Y>-311</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -2228,8 +2291,8 @@
       </Coords>
       <Label Text="S_B1">
         <Offset>
-          <X>-366</X>
-          <Y>-274</Y>
+          <X>-481</X>
+          <Y>-287</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -2269,8 +2332,8 @@
       </Coords>
       <Label Text="S_B2">
         <Offset>
-          <X>-278</X>
-          <Y>-279</Y>
+          <X>-420</X>
+          <Y>-304</Y>
         </Offset>
         <FontSize>-1</FontSize>
         <Color>-16777216</Color>
@@ -2351,7 +2414,7 @@
       </Coords>
       <Label Text="S_B4">
         <Offset>
-          <X>-479</X>
+          <X>-556</X>
           <Y>-286</Y>
         </Offset>
         <FontSize>-1</FontSize>
@@ -2392,7 +2455,7 @@
       </Coords>
       <Label Text="S_B5">
         <Offset>
-          <X>-375</X>
+          <X>-503</X>
           <Y>-304</Y>
         </Offset>
         <FontSize>-1</FontSize>
@@ -2474,7 +2537,7 @@
       </Coords>
       <Label Text="S_RD2">
         <Offset>
-          <X>-394</X>
+          <X>-535</X>
           <Y>-308</Y>
         </Offset>
         <FontSize>-1</FontSize>
@@ -2500,7 +2563,197 @@
     </OperatingUnit>
   </OperatingUnits>
   <MutualExclusions />
-  <Solutions />
+  <Solutions>
+    <Solution Index="1" Title="Feasible structure #1" OptimalValue="-2.14" TotalTime="0" TotalMakespan="0" ObjectiveValue="0" AlgorithmUsed="INSIDEOUT">
+      <Materials>
+        <Material Name="A1" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="A3" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="B1" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="B3" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="B4" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="B5" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="MH1" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="MH2" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="MH3" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="MH4" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="MH5" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="RD1" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="RD2" Flow="0" Cost="0" MU="m³/s" />
+        <Material Name="S" Flow="-2.14" Cost="0" MU="m³/s" />
+        <Material Name="W" Flow="2.14" Cost="-2.14" MU="m³/s" />
+      </Materials>
+      <OperatingUnits>
+        <OperatingUnit Name="P1" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="A1" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH1" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P10" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="B5" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH4" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P11" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="B3" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH5" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P12" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="B4" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH5" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P13" Size="0.66" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="MH4" Flow="-0.66" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="W" Flow="0.66" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P14" Size="0.66" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="MH5" Flow="-0.66" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="W" Flow="0.66" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P15" Size="0.08" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="RD2" Flow="-0.08" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="W" Flow="0.08" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P3" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="MH1" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH2" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P4" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="A3" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH2" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P5" Size="0.66" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="MH2" Flow="-0.66" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="W" Flow="0.66" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P6" Size="0.08" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="RD1" Flow="-0.08" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="W" Flow="0.08" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P7" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="B1" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH3" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="P9" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="MH3" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="MH4" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_A1" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="A1" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_A3" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="A3" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_B1" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="B1" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_B3" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="B3" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_B4" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="B4" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_B5" Size="0.33" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.33" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="B5" Flow="0.33" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_RD1" Size="0.08" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.08" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="RD1" Flow="0.08" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+        <OperatingUnit Name="S_RD2" Size="0.08" Cost="0" MU="m³/s">
+          <Input>
+            <Material Name="S" Flow="-0.08" Cost="0" MU="m³/s" />
+          </Input>
+          <Output>
+            <Material Name="RD2" Flow="0.08" Cost="0" MU="m³/s" />
+          </Output>
+        </OperatingUnit>
+      </OperatingUnits>
+    </Solution>
+  </Solutions>
   <Periods />
   <MultiExcept>
     <ExceptMats />
